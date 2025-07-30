@@ -33,6 +33,7 @@ class OrderViewSet(viewsets.ModelViewSet):
     permission_classes = [IsAuthenticated]
     pagination_class = PageNumberPagination
     filter_backends = [filters.SearchFilter]
+    search_fields = ['user__username', 'status']
 
 
 class OrderItemViewSet(viewsets.ModelViewSet):
@@ -41,6 +42,7 @@ class OrderItemViewSet(viewsets.ModelViewSet):
     permission_classes = [IsAuthenticated]
     pagination_class = PageNumberPagination
     filter_backends = [filters.SearchFilter]
+    search_fields = ['order__id', 'product__name']
 
 
 class CartViewSet(viewsets.ModelViewSet):
@@ -49,6 +51,7 @@ class CartViewSet(viewsets.ModelViewSet):
     permission_classes = [IsAuthenticated]
     pagination_class = PageNumberPagination
     filter_backends = [filters.SearchFilter]
+    search_fields = ['user__username']
 
 
 class CartItemViewSet(viewsets.ModelViewSet):
@@ -57,6 +60,7 @@ class CartItemViewSet(viewsets.ModelViewSet):
     permission_classes = [IsAuthenticated]
     pagination_class = PageNumberPagination
     filter_backends = [filters.SearchFilter]
+    search_fields = ['cart__id', 'product__name']
 
 
 class CustomerViewSet(viewsets.ModelViewSet):
@@ -65,4 +69,5 @@ class CustomerViewSet(viewsets.ModelViewSet):
     permission_classes = [IsAuthenticated]
     pagination_class = PageNumberPagination
     filter_backends = [filters.SearchFilter]
+    search_fields = ['user__username', 'name', 'email']
     
