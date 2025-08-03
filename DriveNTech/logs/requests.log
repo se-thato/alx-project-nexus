@@ -1,0 +1,53 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\wsgi.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 16859
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+Not Found: /categories/
+"GET /categories/ HTTP/1.1" 404 2721
+"GET /api/categories/ HTTP/1.1" 200 16347
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+"GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+"GET /api/categories/ HTTP/1.1" 200 16347
+"GET /api/categories/?page=2 HTTP/1.1" 200 16448
+"GET /api/categories/ HTTP/1.1" 200 16347
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/categories/?page=2 HTTP/1.1" 200 16448
+"GET /api/categories/ HTTP/1.1" 200 16347
+"GET /api/carts/ HTTP/1.1" 200 15768
+"GET /api/categories/ HTTP/1.1" 200 16347
+"GET /api/categories/?page=2 HTTP/1.1" 200 16448
+"GET /api/categories/ HTTP/1.1" 200 16347
+"GET /api/categories/?page=2 HTTP/1.1" 200 16448
+"GET /api/categories/ HTTP/1.1" 200 16347
+"GET /api/categories/?page=2 HTTP/1.1" 200 16448
+"GET /api/categories/ HTTP/1.1" 200 16347
+Too Many Requests: /api/categories/
+"GET /api/categories/?page=2 HTTP/1.1" 429 13392
+"GET /api/categories/?page=2 HTTP/1.1" 200 16448
