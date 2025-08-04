@@ -1,3 +1,5 @@
+
+import os
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -49,22 +51,46 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     #external middlewares
     'Eco_Api.middleware.RequestLoggingMiddleware', #this is the custom middleware for logging requests
+    'Eco_Api.middleware.PerformanceMonitoringMiddleware', # this is the custom middleware for performance monitoring
 ]
 
-#this is request logging middleware it logs incoming requests and their response times
+
+# This will create the request.log file and the stow_requests.log file which will give the alert if the request is too slow
 LOGGING = {
     'version': 1,
+    'disable_existing_loggers': False,
+    'formatters': {
+        'verbose': {
+            'format': '[{asctime}] {levelname} {message}',
+            'style': '{',
+        },
+    },
     'handlers': {
         'file': {
             'class': 'logging.FileHandler',
             'filename': 'logs/requests.log',
         },
+        'slow_file': {
+            'level': 'WARNING',
+            'class': 'logging.FileHandler',
+            'filename': os.path.join(BASE_DIR, 'slow_requests.log'),
+            'formatter': 'verbose',
+        },
+        'console': {
+            'class': 'logging.StreamHandler',
+            'formatter': 'verbose',
+        },
     },
     'loggers': {
         'django': {
-            'handlers': ['file'],
+            'handlers': ['file', 'console'],
             'level': 'INFO',
             'propagate': True,
+        },
+        'performance': {
+            'handlers': ['slow_file', 'console'],
+            'level': 'WARNING',
+            'propagate': False,
         },
     },
 }
@@ -76,6 +102,10 @@ LOGGING = {
 CORS_ORIGIN_ALLOW_ALL = True # Allow all domains to make requests
 
 CORS_ALLOW_CREDENTIALS = True # Allow cookies to be included in CORS requests
+
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:8000",
+]
 
 ROOT_URLCONF = 'DriveNTech.urls'
 
@@ -193,3 +223,12 @@ SWAGGER_SETTINGS = {
     'USE_SESSION_AUTH': False,
 }
 
+
+#Email Alerts for Super Slow Requests
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+EMAIL_HOST_USER = 'thatoselepe53@gmail.com'
+EMAIL_HOST_PASSWORD = 'theplanetisflat'
+DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
