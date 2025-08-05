@@ -1,6 +1,8 @@
 from django.shortcuts import render
 from .serializers import CategorySerializer, ProductSerializer, OrderSerializer, OrderItemSerializer, CartSerializer, CartItemSerializer, CustomerSerializer
 from rest_framework import viewsets
+from django.utils.decorators import method_decorator
+from django.views.decorators.cache import cache_page
 from .models import Category, Product, Order, OrderItem, Cart, CartItem, Customer
 from rest_framework.permissions import IsAuthenticated
 from .permissions import IsAdminOrReadOnly
@@ -18,6 +20,9 @@ class CategoryViewSet(viewsets.ModelViewSet):
     search_fields = ['name']
 
 
+
+# Cache the list view for 15 minutes (900 seconds)
+@method_decorator(cache_page(60 * 15), name='list')
 class ProductViewSet(viewsets.ModelViewSet):
     queryset = Product.objects.all()
     serializer_class = ProductSerializer

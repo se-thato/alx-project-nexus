@@ -138,3 +138,149 @@ C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\vie
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\permissions.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 18898
+"GET /api/swagger/ HTTP/1.1" 200 1648
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+"GET /api/swagger/?format=openapi HTTP/1.1" 200 18730
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/swagger/ HTTP/1.1" 200 1648
+"GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0
+"GET /api/swagger/?format=openapi HTTP/1.1" 200 18730
+Not Found: /api/admin/
+"GET /api/admin/ HTTP/1.1" 404 6705
+"GET /admin/ HTTP/1.1" 200 18898
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /admin/axes/accesslog/ HTTP/1.1" 200 18708
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+"GET /admin/ HTTP/1.1" 200 18898
+"GET /admin/axes/accessattempt/ HTTP/1.1" 200 17799
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 18898
+Watching for file changes with StatReloader
+"POST /admin/logout/ HTTP/1.1" 301 0
+code 400, message Bad request version ('\x8bpH|G÷/üÔ5q')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÐÌ%Í±B\x0f\x89®cAª\x15´Qsf\x15·Ø')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('áÛ\x14A°\x9bÿWIsEà')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('íóä\x92Ï$Chô')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03I\x96Í\x17õq£).VÞP`\x88ð\x8c5OÒ"½Ì')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063')
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03¦,õ\x0eÚuV#F¾\x12ÍHxïøi$¹R\x98\x89\x82<%åToå,|ï')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x18\x00p')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Ê\x11¤?3g¢Õ\x98\x8eòXd-\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x91RlI¢ÉG\x1a\x8b¼\x81oa/Á7Ïþá')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Sªª\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"GET /admin/ HTTP/1.1" 301 0
+code 400, message Bad request version ('\x0eº×K')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('iÈLb\x9dcgùr0')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00-\x00\x02\x01\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x17\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('¥gQ¹Ì[Y')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+code 400, message Bad request version ('\x97³I(')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('£')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÚÚ\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03v7\x9b\x8dNUL³ìÌ\x9e×ÛPél')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÚÚ\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('í®g]Ðù1_-,\x05\x07\x84î1ÜBöiU')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x06\x8e')
+code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sjj\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00\x12\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÊÊ\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('¶\x8c\x98NÙÅâH~;V\x82²%·}\x98HªäRØk\x9fµC\x86\xadÅ¬ôV_ÄÕ2@±;¹é~3\x1bÊ\'"\x895Ð\x11Î\x05\x81B§M\xad')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('yÆ3\x01©')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ºº\x00\x00\x00+\x00\x07\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+"GET / HTTP/1.1" 404 2670
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2721
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 18898
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331

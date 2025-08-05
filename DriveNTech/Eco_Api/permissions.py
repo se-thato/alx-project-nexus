@@ -7,11 +7,11 @@ class IsAdminOrReadOnly(permissions.BasePermission):
     Non-admin users can only read.
     """
 
-    def has_permission(self, request, view):
+    def has_permission(self, request, view, obj):
         # Allow read-only access for non-authenticated users
         if request.method in permissions.SAFE_METHODS:
             return True
-        # Allow write access for admin users
-        return request.user and request.user.is_staff
+        # this is the custom permission class that allows only admins to edit objects, while non-admin users can only read them.
+        return obj.owner == request.user
 
 
