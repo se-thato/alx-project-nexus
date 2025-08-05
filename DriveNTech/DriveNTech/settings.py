@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'oauth2_provider',
     'corsheaders',
     'rest_framework.authtoken',
+    'axes',  # For brute-force protection
 
 ]
 
@@ -52,7 +53,11 @@ MIDDLEWARE = [
     #external middlewares
     'Eco_Api.middleware.RequestLoggingMiddleware', #this is the custom middleware for logging requests
     'Eco_Api.middleware.PerformanceMonitoringMiddleware', # this is the custom middleware for performance monitoring
+    'axes.middleware.AxesMiddleware',  # Middleware for brute-force protection
 ]
+
+AXES_FAILURE_LIMIT = 3  # Lock out after 3 failed attempts
+AXES_COOLOFF_TIME = 1  # Lockout period in hours
 
 
 # This will create the request.log file and the stow_requests.log file which will give the alert if the request is too slow

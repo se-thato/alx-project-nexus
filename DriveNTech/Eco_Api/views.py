@@ -25,6 +25,7 @@ class ProductViewSet(viewsets.ModelViewSet):
     pagination_class = PageNumberPagination
     filter_backends = [SearchFilter, OrderingFilter]
     search_fields = ['name', 'category__name']
+    ordering_fields = ['price']
 
 
 
