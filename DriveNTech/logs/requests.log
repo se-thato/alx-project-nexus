@@ -284,3 +284,37 @@ Not Found: /favicon.ico
 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 18898
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥ZZ\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06e')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01DÍ\x00\x05\x00\x03\x02h2\x003\x04ï\x04íúú\x00\x01\x00\x11ì\x04À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ê}%\x8bEç=¿Z~ÿXµ\x98®<jÃ\x95\x03Û\x10R^\x18%TJO_#\x05q\x82!\x93ø;ZJ\x98\x88\x04çRyWFÏ/\x91\x83\x81¸1H«4qx[#xA£ê\x80ÃMÙ,u!#6°\x11§ir`x{-')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x12\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+code 400, message Bad request version ('Ã')
+code 400, message Bad request version ('ÏÌ;äBH^±ÈN\x89¦E\x19ºn2\x03')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06E\x9a\x9a\x00\x00\x003\x04ï\x04íjj\x00\x01\x00\x11ì\x04Àb5h¶øwrôp\x9a@¾x\x07j\x8cX\x16×d\x8fuÜ(\x88²@¹õ>\x82õ\x8c\x86')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader

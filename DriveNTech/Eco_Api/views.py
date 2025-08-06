@@ -7,7 +7,10 @@ from .models import Category, Product, Order, OrderItem, Cart, CartItem, Custome
 from rest_framework.permissions import IsAuthenticated
 from .permissions import IsAdminOrReadOnly
 from rest_framework.filters import SearchFilter, OrderingFilter
+
 from rest_framework.pagination import PageNumberPagination
+# Import the Celery task for sending confirmation emails
+from .tasks import send_order_confirmation_email
 
 
 
@@ -34,6 +37,7 @@ class ProductViewSet(viewsets.ModelViewSet):
 
 
 
+
 class OrderViewSet(viewsets.ModelViewSet):
     queryset = Order.objects.all()
     serializer_class = OrderSerializer
@@ -41,6 +45,25 @@ class OrderViewSet(viewsets.ModelViewSet):
     pagination_class = PageNumberPagination
     filter_backends = [SearchFilter, OrderingFilter]
     search_fields = ['user__username', 'status']
+
+    def perform_create(self, serializer):
+        # Save the order instance
+        order = serializer.save(user=self.request.user)
+
+        # Prepare email details
+        user_email = order.user.email
+        order_id = order.id
+        delivery_type = getattr(order, 'delivery_type', 'delivery') 
+        address = getattr(order, 'address', None)
+
+        # Send the confirmation email in the background
+        send_order_confirmation_email.delay(
+            user_email=user_email,
+            order_id=order_id,
+            delivery_type=delivery_type,
+            address=address
+        )
+        # The user will receive an email after checkout automatically
 
 
 class OrderItemViewSet(viewsets.ModelViewSet):

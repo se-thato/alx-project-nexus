@@ -127,7 +127,7 @@ CORS_ORIGIN_ALLOW_ALL = True # Allow all domains to make requests
 CORS_ALLOW_CREDENTIALS = True # Allow cookies to be included in CORS requests
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:8000",
+    "https://localhost:8000",
 ]
 
 ROOT_URLCONF = 'DriveNTech.urls'
@@ -250,12 +250,18 @@ SWAGGER_SETTINGS = {
 CACHES = {
     "default": {
         "BACKEND": "django_redis.cache.RedisCache",
-        "LOCATION": "redis://127.0.0.1:6379/1",  # 1 is the Redis database number
+        "LOCATION": "redis://127.0.0.1:6379/1", 
         "OPTIONS": {
             "CLIENT_CLASS": "django_redis.client.DefaultClient",
         }
     }
 }
+
+
+# Celery configuration
+#this will tell Celery to use Redis in my computer
+CELERY_BROKER_URL = 'redis://localhost:6379/0'
+CELERY_RESULT_BACKEND = 'redis://localhost:6379/0'
 
 
 #Email Alerts for Super Slow Requests
