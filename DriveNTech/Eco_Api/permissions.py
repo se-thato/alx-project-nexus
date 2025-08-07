@@ -15,3 +15,9 @@ class IsAdminOrReadOnly(permissions.BasePermission):
         return obj.owner == request.user
 
 
+# this permission class allows only authenticated users to access the view
+class IsVendor(permissions.BasePermission):
+    def has_permission(self, request, view):
+        return request.user.profile.role == 'vendor'
+
+

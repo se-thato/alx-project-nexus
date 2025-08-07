@@ -5,6 +5,20 @@ from django.core.validators import MinValueValidator, MaxValueValidator
 from django.core.exceptions import ValidationError
 
 
+class Profile(models.Model):
+    ROLE_CHOICES = [
+        ('admin', 'Admin'),
+        ('vendor', 'Vendor'),
+        ('customer', 'Customer'),
+    ]
+    user = models.OneToOneField(User, on_delete=models.CASCADE)
+    role = models.CharField(max_length=10, choices=ROLE_CHOICES, default='customer')
+    created_at = models.DateTimeField(auto_now_add=True)
+    avatar = models.ImageField(upload_to='avatars/', blank=True, null=True)
+    bio = models.TextField(blank=True, null=True)
+    
+
+
 
 class Category(models.Model):
     name = models.CharField(max_length=100, unique=True)

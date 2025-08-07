@@ -58,6 +58,12 @@ INSTALLED_APPS = [
     'axes',  # For brute-force protection
 
     'sslserver',  # For running Django dev server with HTTPS
+    #email verification
+    'dj_rest_auth',
+    'dj_rest_auth.registration',
+    'allauth',
+    'allauth.account',
+    'allauth.socialaccount',
 
 ]
 
@@ -74,6 +80,8 @@ MIDDLEWARE = [
     'Eco_Api.middleware.RequestLoggingMiddleware', #this is the custom middleware for logging requests
     'Eco_Api.middleware.PerformanceMonitoringMiddleware', # this is the custom middleware for performance monitoring
     'axes.middleware.AxesMiddleware',  # Middleware for brute-force protection
+    #allauth
+    'allauth.account.middleware.AccountMiddleware',
 ]
 
 AXES_FAILURE_LIMIT = 3  # Lock out after 3 failed attempts
@@ -274,3 +282,8 @@ EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'thatoselepe53@gmail.com'
 EMAIL_HOST_PASSWORD = 'ybod xlzf miik dkez'
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
+
+#email verification settings
+ACCOUNT_EMAIL_VERIFICATION = "mandatory"
+ACCOUNT_EMAIL_REQUIRED = True
+ACCOUNT_AUTHENTICATION_METHOD = 'email'

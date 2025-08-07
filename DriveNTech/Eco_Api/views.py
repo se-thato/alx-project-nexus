@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from .serializers import CategorySerializer, ProductSerializer, OrderSerializer, OrderItemSerializer, CartSerializer, CartItemSerializer, CustomerSerializer, WishlistSerializer, WishlistItemSerializer, ReviewSerializer, AddressSerializer
+from .serializers import CategorySerializer, ProductSerializer, OrderSerializer, OrderItemSerializer, CartSerializer, CartItemSerializer, CustomerSerializer, WishlistSerializer, WishlistItemSerializer, ReviewSerializer, AddressSerializer, UserProfileSerializer, RegisterSerializer
 from rest_framework import viewsets
 from django.utils.decorators import method_decorator
 from django.views.decorators.cache import cache_page
@@ -14,6 +14,28 @@ from .tasks import send_order_confirmation_email
 from rest_framework.decorators import action
 from rest_framework.response import Response
 from rest_framework import status
+from .serializers import RegisterSerializer
+from rest_framework.permissions import AllowAny
+from django.contrib.auth.models import User
+
+
+
+class UserProfileView(viewsets.ModelViewSet):
+    serializer_class = UserProfileSerializer
+    permission_classes = [IsAuthenticated]
+    pagination_class = PageNumberPagination
+    
+    def get_object(self):
+        return self.request.user.profile
+
+
+
+class RegisterView(viewsets.ModelViewSet):
+    queryset = User.objects.all()
+    permission_classes = [AllowAny]
+    serializer_class = RegisterSerializer
+    pagination_class = PageNumberPagination
+
 
 
 
