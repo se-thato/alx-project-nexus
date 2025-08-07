@@ -89,7 +89,7 @@ MIDDLEWARE = [
 
 AXES_FAILURE_LIMIT = 3  # Lock out after 3 failed attempts
 #this will lockout the user for 60 minutes after 3 failed attempts
-AXES_COOLOFF_TIME = 60  # Lockout period in minutes
+AXES_COOLOFF_TIME = 1  # Lockout period in minutes
 
 
 # This will create the request.log file and the stow_requests.log file which will give the alert if the request is too slow

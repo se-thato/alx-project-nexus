@@ -1454,3 +1454,55 @@ Too Many Requests: /admin/login/
 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173
 Too Many Requests: /admin/login/
 "POST /admin/login/?next=/admin/ HTTP/1.1" 429 64
+Watching for file changes with StatReloader
+Too Many Requests: /admin/login/
+"POST /admin/login/?next=/admin/ HTTP/1.1" 429 64
+Not Found: /
+"GET / HTTP/1.1" 404 3509
+Not Found: /
+"GET / HTTP/1.1" 404 3509
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3560
+code 400, message Bad request version ('Cº\x0f=\x18Zçl¦Õ\x9ch')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('M9WN\x80ùÂ\x12ÄØF·ÛÅ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('âBAßH!Yê')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('A¢,7\x9cü£ª')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('õ\x04Nõ%H¡>*!¦Ñ\x14_\x17«')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x95åB')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('lÀ¶×û\x88s\x8bG²q0)\x89\x7f\x8f¨7ëÀ\x87Nü+')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x12\x00\x00\x00-\x00\x02\x01\x01\x003\x04ï\x04íÚÚ\x00\x01\x00\x11ì\x04À\x01aÉJ\x97{ª|¾\x08×\x8d¾¶b\x10¦\xad\x11Ë½¯ÜÆC\x89¨\x9ek«ÕÐ¸mr_')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x97¾½Å_\x8c\x818x\x08\x9bÜxo:k¯òõ×\x82³z»ú\x02\x8f\x9e¨\x04t<\x00Ð\x8a')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('yj\x00ð')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03²¸\x99´RC\x1bÓ\x8bó½?\x81«@}4m\x8cK»£\x9bZÐyt\x02.\\ð(')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Z\x81^\x9f')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Ezz\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06E::\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173
+Too Many Requests: /admin/login/
+"POST /admin/login/?next=/admin/ HTTP/1.1" 429 64
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173
+Too Many Requests: /admin/login/
+"POST /admin/login/?next=/admin/ HTTP/1.1" 429 64
+Too Many Requests: /admin/login/
+"POST /admin/login/?next=/admin/ HTTP/1.1" 429 64
+Too Many Requests: /admin/login/
+"POST /admin/login/?next=/admin/ HTTP/1.1" 429 64
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
