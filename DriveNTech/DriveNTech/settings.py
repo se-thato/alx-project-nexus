@@ -39,6 +39,8 @@ CACHES = {
 # Application definition
 
 INSTALLED_APPS = [
+    'django.contrib.sites', # Required for allauth
+
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -84,8 +86,10 @@ MIDDLEWARE = [
     'allauth.account.middleware.AccountMiddleware',
 ]
 
+
 AXES_FAILURE_LIMIT = 3  # Lock out after 3 failed attempts
-AXES_COOLOFF_TIME = 1  # Lockout period in hours
+#this will lockout the user for 60 minutes after 3 failed attempts
+AXES_COOLOFF_TIME = 60  # Lockout period in minutes
 
 
 # This will create the request.log file and the stow_requests.log file which will give the alert if the request is too slow
@@ -284,6 +288,13 @@ EMAIL_HOST_PASSWORD = 'ybod xlzf miik dkez'
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
 #email verification settings
-ACCOUNT_EMAIL_VERIFICATION = "mandatory"
+# Allauth settings
+SITE_ID = 1
+
 ACCOUNT_EMAIL_REQUIRED = True
+ACCOUNT_USERNAME_REQUIRED = False
 ACCOUNT_AUTHENTICATION_METHOD = 'email'
+ACCOUNT_EMAIL_VERIFICATION = 'mandatory'
+ACCOUNT_USER_MODEL_USERNAME_FIELD = None
+
+REST_USE_JWT = True

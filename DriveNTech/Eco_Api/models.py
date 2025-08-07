@@ -6,18 +6,13 @@ from django.core.exceptions import ValidationError
 
 
 class Profile(models.Model):
-    ROLE_CHOICES = [
-        ('admin', 'Admin'),
-        ('vendor', 'Vendor'),
-        ('customer', 'Customer'),
-    ]
     user = models.OneToOneField(User, on_delete=models.CASCADE)
-    role = models.CharField(max_length=10, choices=ROLE_CHOICES, default='customer')
-    created_at = models.DateTimeField(auto_now_add=True)
-    profile_picture = models.ImageField(upload_to='profile_pictures/', blank=True, null=True)
-    bio = models.TextField(blank=True, null=True)
+    address = models.TextField(blank=True)
+    phone_number = models.CharField(max_length=20, blank=True)
+    profile_photo = models.ImageField(upload_to='profile_photos/', blank=True, null=True)
 
-
+    def __str__(self):
+        return f"{self.user.email}'s Profile"
 
 
 class Category(models.Model):

@@ -8,10 +8,12 @@ urlpatterns = [
     path('api/token/', jwt_views.TokenObtainPairView.as_view(), name='token_obtain_pair'),
     path('api/token/refresh/', jwt_views.TokenRefreshView.as_view(), name='token_refresh'),
     #email verification
+    # Include dj-rest-auth URLs for user authentication and registration
     path('dj-rest-auth/', include('dj_rest_auth.urls')),
     path('dj-rest-auth/registration/', include('dj_rest_auth.registration.urls')),
+    path('dj-rest-auth/account/', include('allauth.urls')),
     #password reset via email
     path('dj-rest-auth/password/reset/', include('dj_rest_auth.urls')),
-
+    path('dj-rest-auth/password/reset/confirm/', include('dj_rest_auth.urls')),
 
 ]
