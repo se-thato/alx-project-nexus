@@ -6,7 +6,7 @@ from django.contrib.auth.models import User
 class UserProfileSerializer(serializers.ModelSerializer):
     class Meta:
         model = Profile
-        fields = ['id', 'user', 'role', 'created_at', 'avatar', 'bio']
+        fields = ['id', 'user', 'role', 'created_at', 'profile_picture', 'bio']
         read_only_fields = ['id', 'created_at']
 
 

@@ -2,6 +2,7 @@ from django.urls import path
 from .views import CategoryViewSet, ProductViewSet, OrderViewSet, OrderItemViewSet, CartViewSet, CartItemViewSet, CustomerViewSet, WishlistViewSet, WishlistItemViewSet, ReviewViewSet, AddressViewSet, UserProfileView, RegisterView
 from Eco_Api.swagger import schema_view
 
+
 urlpatterns = [
     path('categories/', CategoryViewSet.as_view({'get': 'list', 'post': 'create'}), name='category-list'),
     path('categories/<int:pk>/', CategoryViewSet.as_view({'get': 'retrieve', 'put': 'update', 'delete': 'destroy'}), name='category-detail'),
