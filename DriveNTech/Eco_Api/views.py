@@ -1,9 +1,9 @@
 from django.shortcuts import render
-from .serializers import CategorySerializer, ProductSerializer, OrderSerializer, OrderItemSerializer, CartSerializer, CartItemSerializer, CustomerSerializer
+from .serializers import CategorySerializer, ProductSerializer, OrderSerializer, OrderItemSerializer, CartSerializer, CartItemSerializer, CustomerSerializer, WishlistSerializer, WishlistItemSerializer, ReviewSerializer, AddressSerializer
 from rest_framework import viewsets
 from django.utils.decorators import method_decorator
 from django.views.decorators.cache import cache_page
-from .models import Category, Product, Order, OrderItem, Cart, CartItem, Customer
+from .models import Category, Product, Order, OrderItem, Cart, CartItem, Customer, Wishlist, WishlistItem, Review, Address
 from rest_framework.permissions import IsAuthenticated
 from .permissions import IsAdminOrReadOnly
 from rest_framework.filters import SearchFilter, OrderingFilter
@@ -11,6 +11,9 @@ from rest_framework.filters import SearchFilter, OrderingFilter
 from rest_framework.pagination import PageNumberPagination
 # Import the Celery task for sending confirmation emails
 from .tasks import send_order_confirmation_email
+from rest_framework.decorators import action
+from rest_framework.response import Response
+from rest_framework import status
 
 
 
@@ -39,7 +42,9 @@ class ProductViewSet(viewsets.ModelViewSet):
 
 
 class OrderViewSet(viewsets.ModelViewSet):
-    queryset = Order.objects.all()
+    # Only return orders belonging to the current user
+    def get_queryset(self):
+        return Order.objects.filter(user=self.request.user)
     serializer_class = OrderSerializer
     permission_classes = [IsAuthenticated]
     pagination_class = PageNumberPagination
@@ -57,13 +62,38 @@ class OrderViewSet(viewsets.ModelViewSet):
         address = getattr(order, 'address', None)
 
         # Send the confirmation email in the background
+         # The user will receive an email after checkout automatically
         send_order_confirmation_email.delay(
             user_email=user_email,
             order_id=order_id,
             delivery_type=delivery_type,
             address=address
         )
-        # The user will receive an email after checkout automatically
+       
+    # Custom action to update order status
+    @action(detail=True, methods=['patch'], permission_classes=[IsAuthenticated]) # this decorator allows us to add custom actions to the viewset
+    def update_status(self, request, pk=None): 
+        order = self.get_object()
+        # Check if the user is an admin
+        if not request.user.is_staff:
+            return Response({'detail': 'Only admin can update order status.'}, status=status.HTTP_403_FORBIDDEN)
+        # Get the new status from the request data
+        new_status = request.data.get('status')
+        # Validate the new status
+        if new_status not in dict(order.STATUS_CHOICES):
+            return Response({'detail': 'Invalid status value.'}, status=status.HTTP_400_BAD_REQUEST)
+        # Update the order status and save it
+        order.status = new_status
+        order.save()
+        # Send an email notification to the user about the status update, it will call the celery task
+        send_order_status_update_email.delay(
+            user_email=order.user.email,
+            order_id=order.id,
+            new_status=new_status
+        )
+        # Return a success response
+        # This response will be sent to the user after the order status is updated
+        return Response({'detail': f'Order status updated to {new_status}.'}, status=status.HTTP_200_OK)
 
 
 class OrderItemViewSet(viewsets.ModelViewSet):
@@ -76,7 +106,9 @@ class OrderItemViewSet(viewsets.ModelViewSet):
 
 
 class CartViewSet(viewsets.ModelViewSet):
-    queryset = Cart.objects.all()
+    # Only return carts belonging to the current user
+    def get_queryset(self):
+        return Cart.objects.filter(user=self.request.user)
     serializer_class = CartSerializer
     permission_classes = [IsAuthenticated]
     pagination_class = PageNumberPagination
@@ -100,4 +132,44 @@ class CustomerViewSet(viewsets.ModelViewSet):
     pagination_class = PageNumberPagination
     filter_backends = [SearchFilter, OrderingFilter]
     search_fields = ['user__username', 'name', 'email']
+
+
+class WishlistViewSet(viewsets.ModelViewSet):
+    # Only return wishlists belonging to the current user
+    def get_queryset(self):
+        return Wishlist.objects.filter(user=self.request.user)
+    serializer_class = WishlistSerializer
+    permission_classes = [IsAuthenticated]
+    pagination_class = PageNumberPagination
+    filter_backends = [SearchFilter, OrderingFilter]
+    search_fields = ['user__username']
+
+
+class WishlistItemViewSet(viewsets.ModelViewSet):
+    queryset = WishlistItem.objects.all()
+    serializer_class = WishlistItemSerializer
+    permission_classes = [IsAuthenticated]
+    pagination_class = PageNumberPagination
+    filter_backends = [SearchFilter, OrderingFilter]
+    search_fields = ['wishlist__id', 'product__name']
+
+
+class ReviewViewSet(viewsets.ModelViewSet):
+    queryset = Review.objects.all()
+    serializer_class = ReviewSerializer
+    permission_classes = [IsAuthenticated]
+    pagination_class = PageNumberPagination
+    filter_backends = [SearchFilter, OrderingFilter]
+    search_fields = ['product__name', 'user__username']
+
+
+class AddressViewSet(viewsets.ModelViewSet):
+    # Only return addresses belonging to the current user
+    def get_queryset(self):
+        return Address.objects.filter(user=self.request.user)
+    serializer_class = AddressSerializer
+    permission_classes = [IsAuthenticated]
+    pagination_class = PageNumberPagination
+    filter_backends = [SearchFilter, OrderingFilter]
+    search_fields = ['user__username', 'city', 'state', 'country']
     

@@ -1,13 +1,13 @@
 
 import os
 from pathlib import Path
-"""
+
 # Security settings for production
 # Enforce HTTPS in production
-SECURE_SSL_REDIRECT = True  # Redirect all HTTP to HTTPS
-SESSION_COOKIE_SECURE = True  # Cookies only sent over HTTPS
-CSRF_COOKIE_SECURE = True     # CSRF cookies only sent over HTTPS
-"""
+# SECURE_SSL_REDIRECT = True  # Redirect all HTTP to HTTPS
+# SESSION_COOKIE_SECURE = True  # Cookies only sent over HTTPS
+# CSRF_COOKIE_SECURE = True     # CSRF cookies only sent over HTTPS
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -56,6 +56,8 @@ INSTALLED_APPS = [
     'corsheaders',
     'rest_framework.authtoken',
     'axes',  # For brute-force protection
+
+    'sslserver',  # For running Django dev server with HTTPS
 
 ]
 
@@ -127,7 +129,7 @@ CORS_ORIGIN_ALLOW_ALL = True # Allow all domains to make requests
 CORS_ALLOW_CREDENTIALS = True # Allow cookies to be included in CORS requests
 
 CORS_ALLOWED_ORIGINS = [
-    "https://localhost:8000",
+    "http://localhost:8000",
 ]
 
 ROOT_URLCONF = 'DriveNTech.urls'
@@ -270,5 +272,5 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'thatoselepe53@gmail.com'
-EMAIL_HOST_PASSWORD = 'theplanetisflat'
+EMAIL_HOST_PASSWORD = 'ybod xlzf miik dkez'
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER

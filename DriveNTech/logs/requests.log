@@ -318,3 +318,436 @@ code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\
 You're accessing the development server over HTTPS, but it only supports HTTP.
 C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+code 400, message Bad request version ('æ\x05Z\x07T²`¼$û')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x06²\x01\x00\x06®\x03\x03\x82í\x9f#õ¯\x84°\x01j\x00Ã0\x07¢-Û\x9e]o\x80ÄÝ¹ñ{n¥ÒÞ\x1b')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03ª¼ô´¸ü')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06E\x9a\x9a\x00\x00\x00\x12\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06e')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03DyXu\x1bg}rTM1p}úü')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2670
+Not Found: /
+"GET / HTTP/1.1" 404 2670
+code 400, message Bad request version ('½\x8fT\x9duJ\x98Ëo\x12I')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x17\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ã:p\x84Ö<\x95*0\x06<\xad_wmøßù\x04f')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S\x9a\x9a\x00\x00\x00#\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÞåûúàÜã²8#Fê?\x8c\x1aÞoY\x0er©2oÓ\x00#`6ý\x9d(\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00-\x00\x02\x01\x01\x00+\x00\x07\x06JJ\x03\x04\x03\x03DÍ\x00\x05\x00\x03\x02h2\x00\x1b\x00\x03\x02\x00\x02ÿ\x01\x00\x01\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x16PL\x01\x10Mâ\x14\x17*%Gî\x05\x88Ù')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x12\x00\x00\x00+\x00\x07\x06ªª\x03\x04\x03\x03\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x17\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sjj\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('[ý+\x89}\x10ç²\x16+\x15\x86\x86Y7\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ýú0ËI\x99e@£`\x03%º\x18¶\x8b\x80¿È$aV\x9b')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x18eÓ\x93áÿYp\x9bÈ;)ÎV%vØ\x05ü|÷ruý>')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02ÉA@\x03élÌT')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+code 400, message Bad request version ('¬Ää')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('oÚµe\x8bK?È\x92É4\x12jÇ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03)·\x94Ò~"\x8e\x117gàê\x15-ºÀA¤s}:\x97#2\x9cúÅÂMX¢y')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('k²\x15')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('£\x8e\x93zt³\x12\x15uñE\x1b|O_\x04]\x05ðAPp\x88-ì\x18\x8a\x83qüB')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x1b¯ô/Ù$Di$=\x18T')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1ÿ\x01\x00\x01\x00\x00\x12\x00\x00\x00+\x00\x07\x06\x1a\x1a\x03\x04\x03\x03DÍ\x00\x05\x00\x03\x02h2\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Í½2\\r;·Ñék\x984\xadÏàT')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Mï\x08¾\x97/\x8b0jÃñ\x16Ýò')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+code 400, message Bad request version ('8ö')
+code 400, message Bad request version ('H#Í¬U³7nÚ`E~Ï')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00\x00+\x00\x07\x06ZZ\x03\x04\x03\x03\x00\x17\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÊÊ\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('MDçÊ½S')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ("h\x07ðhM!{L'\\,")
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('jkÃ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x87t\x8cÊ\x19¤:\x05(R\x12¦\x1b9tÉ*8b\x8bë\x07©£\x16\x10\x906j¿{¾.ù\x815¡8¡Kaò¬X\x89æ\x8dS\x1ad\x97*\x80.*5Ù£^"S\x14®\x19)a»©oz½\x00@0^äÀÔ§/ì\x11\x9c\x93\x08DË\x00-#·vä×DD1l,\x11PÖc<ùóY\'ó]\x98\x8c)\x86\x14g¯{®!,\x8dòQ\x0f\x9eC¹n\x8a\x8cò\x94f,a²"a#/E\x833Ø²oÖ!ÑUy+\x9a\x18óÈ8ôè')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+"GET / HTTP/1.1" 404 2670
+Not Found: /
+"GET / HTTP/1.1" 404 2670
+"GET /api/carts/ HTTP/1.1" 200 15768
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+"GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+Not Found: /api/wishlist/
+"GET /api/wishlist/ HTTP/1.1" 404 8942
+code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ê')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x9bÿaC\x99\x9ab\x0föTIz¬Ï~4I¹\x95T,D\\É¥ÕKM\x94XD%l9ë"G\'\x80\x82jðæ@¾\x11iÞ\x8d!«Bë,\x92æ¢i~æÓ§\x12óm¾/øä')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x8cA\x08Û\x05dË\x01H&g\x92Yè\x12Òð3åK\xad¦46ËvdàáÒ¯Å\x83Ð\x9fÈ¢\x17CÜ\x7fö$m\x06%Çt*Ò4Ü\x8c@÷9YêË')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x12\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('yÁ\x8cN©\x81Ç²±}Ð\x81ö\x86_;¡0(|*\x08\x13~\x84')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"GET /api/wishlists/ HTTP/1.1" 200 16000
+"GET /api/addresses/ HTTP/1.1" 200 18029
+"GET /api/reviews/ HTTP/1.1" 200 16926
+code 400, message Bad request version ('\x00\x02\x01\x00\x00\x12\x00\x00\x00-\x00\x02\x01\x01\x00#\x00\x00\x003\x04ï\x04í')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x19n#¾\x02wé|¡×§ÕÔP0ù¦\x93')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('mh\x9bÉÝBF\x9d<P¸\x9d¥ªØ\x0eû+\x97È')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('¯\x1a')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('¼]\x12GÎ4q¾ájÓJn\x88ð$\xad')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('¤lwZõ1±ô¶\x8c\x9c\xadÛM¥¹®Í\x1añÿ\x01\x00\x01\x00\x00\x12\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('1Î')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063::\x00\x00\x00\x12\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03Ú$ÿÄ\x1bÏ\x9dò\x9b)\x89£¾b¼¢\x91\x01\x12\x89')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s\x8a\x8a\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sJJ\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03uòFÎñGÝK\x14\x82e^')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('5hh¹\x88-m(X')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('7É%z\x95\x86½Vñ&Ø\x14\x07ëÚ²Öb9þ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x8a1MîE2Óå:X°±Z\x08©É\x10K\x10ócm\x93¸]cCßÌn(÷}Ë\x13¦vÜ\\8\x14Ï.¶V\x08:ÌáhHE1c¥\x19\x19\x1a¡´Ô\x03\x81vûÍû[Ìó')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('©ÿ¦[\x00²_Ê¦n\x92Fsa\x1a')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93::\x00\x00\x00-\x00\x02\x01\x01\x00\x12\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00\x00-\x00\x02\x01\x01\x00\x12\x00\x00\x003\x04ï\x04íJJ\x00\x01\x00\x11ì\x04Àt¦"\x93ypðó\x00ìT&Cà¨')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\xadrüÆ\x93\x81Ô\x16\x10fåó')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Õ&¿W×L\x9eÌ\x80câ§:\x1a\x1bÝÂQ\\u=£7\x1b>)\x83ÿZr@A£\x826\x91g\x18¥¡\x90£Æ£xªptv\x06uDúX')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03þéç\x17ÛõTe\x8cÛ\x87ûëòÛ\x95\x8c÷Ûs\x8c%¿\x91ÓxNùm/\x1av ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x8fH\x03¹\x8bGáÉG&w\x00\x9b5÷÷Ñ\x9f\x0fêj\x06OX^áè^\x9dþ\x05\x8f\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Ì\x92\x01sÍ«\x928\x1b¬\x0ecAk\x88\x06ü\x9e\x00#\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('KÆg×¤\x0f\x80\x14ê\x84\\ÏD')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03¯±*=\x89´\x9fwËÜ\x8f7\x8fÅ\x9a×Êè\x98\x83\x84Pú')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x17\x00\x00\x00-\x00\x02\x01\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x9eÂ\x90\x8cÀq\x88ÈÙa;\x8b\x19eB')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063\x9a\x9a\x00\x00\x00\x12\x00\x00\x00#\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Ê')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+code 400, message Bad request version ("\x82\x96$|Þd£ì\x8b½zÅÄ\x04\x01Eiz'\x8dQ\x80")
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version (':Üc¯\x92ö:Ðn°Q»iÑ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('abB&\x84NÚ\x86È\x0eZoz\x9bANr\x86ò×\x06óÃlÚT©Ò*1O{\x01\x81\x82«-')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version (',É\x9du5')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03ÿj')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+code 400, message Bad request version (')ã')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('u5x¥¸\x84¬\x98sbÂzu&')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S**\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03ï\x17v\x0eí')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s')
+code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s::\x00\x00\x00+\x00\x07\x06**\x03\x04\x03\x03\x00\x12\x00\x00ÿ\x01\x00\x01\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+code 400, message Bad request version ('s¶¤D\x12ÌP')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ª×÷\x93ÏYåHò]+©û\x0f\x00\x86q~ª+%ªbHØgJ\x86Ý\x84Z\x00Ð')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ï*#è¤\x02YT9ñ+v)D\x90÷Æ\x94\x7f\x8b[`³sñ\x84\x01Ü<O)')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06SÚÚ\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ê±;')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93úú\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00\x00\x17\x00\x00\x00-\x00\x02\x01\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+code 400, message Bad request version ("\x8d\x14¹><7'`°\x82\xad\x9a\x06wÛ\x04\x9bw&¼X<a`q\x99GyÞ")
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('G\\fÖ\x1a>å2z\x10\x93`L±jyæ¸\x16\x89¨HÁ1\x87,`{')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Watching for file changes with StatReloader
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 200 21351
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /admin/Eco_Api/wishlistitem/ HTTP/1.1" 200 17946
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/ HTTP/1.1" 200 21351
+"GET /api/swagger/ HTTP/1.1" 200 1648
+"GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+"GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+"GET /api/swagger/?format=openapi HTTP/1.1" 200 28582
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 21351
+"GET /admin/Eco_Api/review/ HTTP/1.1" 200 17899
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/review/add/ HTTP/1.1" 200 22622
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /admin/Eco_Api/product/add/?_to_field=id&_popup=1 HTTP/1.1" 200 9180
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/Eco_Api/product/add/?_to_field=id&_popup=1 HTTP/1.1" 200 324
+"GET /static/admin/js/popup_response.js HTTP/1.1" 200 532
+"GET /admin/axes/accessfailurelog/ HTTP/1.1" 200 19853
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/review/add/ HTTP/1.1" 200 22657
+"POST /admin/Eco_Api/review/add/ HTTP/1.1" 200 22945
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/Eco_Api/review/add/ HTTP/1.1" 302 0
+"GET /admin/Eco_Api/review/ HTTP/1.1" 200 19428
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"GET /admin/Eco_Api/address/ HTTP/1.1" 200 17906
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/address/add/ HTTP/1.1" 200 22851
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/Eco_Api/address/add/ HTTP/1.1" 302 0
+"GET /admin/Eco_Api/address/ HTTP/1.1" 200 19572
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/address/add/ HTTP/1.1" 200 22851
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/Eco_Api/address/add/ HTTP/1.1" 302 0
+"GET /admin/Eco_Api/address/ HTTP/1.1" 200 20035
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/customer/ HTTP/1.1" 200 19209
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/customer/add/ HTTP/1.1" 200 21600
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/order/ HTTP/1.1" 200 17892
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/order/add/ HTTP/1.1" 200 21065
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/Eco_Api/order/add/ HTTP/1.1" 302 0
+"GET /admin/Eco_Api/order/ HTTP/1.1" 200 19392
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/product/ HTTP/1.1" 200 19181
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/product/1/change/ HTTP/1.1" 200 24098
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/user/ HTTP/1.1" 200 21820
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 19299
+"GET /api/swagger/ HTTP/1.1" 200 1648
+"GET /api/swagger/?format=openapi HTTP/1.1" 200 28314
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 23255
+"GET /admin/Eco_Api/review/ HTTP/1.1" 200 19211
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/review/1/change/ HTTP/1.1" 200 22958
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/Eco_Api/review/1/change/ HTTP/1.1" 302 0
+"GET /admin/Eco_Api/review/add/ HTTP/1.1" 200 22910
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/Eco_Api/review/add/ HTTP/1.1" 200 22858
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/Eco_Api/review/add/ HTTP/1.1" 200 22858
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 23623
+"GET /admin/Eco_Api/wishlist/ HTTP/1.1" 200 17913
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/wishlist/add/ HTTP/1.1" 200 21061
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/Eco_Api/wishlist/add/ HTTP/1.1" 200 21272
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/product/add/?_to_field=id&_popup=1 HTTP/1.1" 200 9180
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 23623
+"GET /api/swagger/ HTTP/1.1" 200 1648
+"GET /api/swagger/?format=openapi HTTP/1.1" 200 28325
+"GET /api/swagger/?format=openapi HTTP/1.1" 200 28325
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\tasks.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/orders/ HTTP/1.1" 200 17322
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+"GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+Not Found: /api/orders/1/update_status/
+"GET /api/orders/1/update_status/ HTTP/1.1" 404 8984
+"GET /admin/ HTTP/1.1" 200 23623
+"GET /admin/Eco_Api/order/ HTTP/1.1" 200 19185
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/order/1/change/ HTTP/1.1" 200 21360
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/Eco_Api/order/1/change/ HTTP/1.1" 302 0
+"GET /admin/Eco_Api/order/ HTTP/1.1" 200 19394
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/order/1/change/ HTTP/1.1" 200 21360
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/Eco_Api/order/1/change/ HTTP/1.1" 302 0
+"GET /admin/Eco_Api/order/ HTTP/1.1" 200 19394
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\tasks.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/Eco_Api/order/1/change/ HTTP/1.1" 200 21360
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/Eco_Api/order/1/change/ HTTP/1.1" 302 0
+"GET /admin/Eco_Api/order/ HTTP/1.1" 200 19394
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\tasks.py changed, reloading.
+Watching for file changes with StatReloader

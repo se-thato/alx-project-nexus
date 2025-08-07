@@ -1,5 +1,5 @@
 from django.urls import path
-from .views import CategoryViewSet, ProductViewSet, OrderViewSet, OrderItemViewSet, CartViewSet, CartItemViewSet, CustomerViewSet
+from .views import CategoryViewSet, ProductViewSet, OrderViewSet, OrderItemViewSet, CartViewSet, CartItemViewSet, CustomerViewSet, WishlistViewSet, WishlistItemViewSet, ReviewViewSet, AddressViewSet
 from Eco_Api.swagger import schema_view
 
 urlpatterns = [
@@ -24,6 +24,17 @@ urlpatterns = [
     path('customers/', CustomerViewSet.as_view({'get': 'list', 'post': 'create'}), name='customer-list'),
     path('customers/<int:pk>/', CustomerViewSet.as_view({'get': 'retrieve', 'put': 'update', 'delete': 'destroy'}), name='customer-detail'),
 
+    path('wishlists/', WishlistViewSet.as_view({'get': 'list', 'post': 'create'}), name='wishlist-list'),
+    path('wishlists/<int:pk>/', WishlistViewSet.as_view({'get': 'retrieve', 'put': 'update', 'delete': 'destroy'}), name='wishlist-detail'),
+
+    path('wishlist-items/', WishlistItemViewSet.as_view({'get': 'list', 'post': 'create'}), name='wishlistitem-list'),
+    path('wishlist-items/<int:pk>/', WishlistItemViewSet.as_view({'get': 'retrieve', 'put': 'update', 'delete': 'destroy'}), name='wishlistitem-detail'),
+
+    path('reviews/', ReviewViewSet.as_view({'get': 'list', 'post': 'create'}), name='review-list'),
+    path('reviews/<int:pk>/', ReviewViewSet.as_view({'get': 'retrieve', 'put': 'update', 'delete': 'destroy'}), name='review-detail'),
+
+    path('addresses/', AddressViewSet.as_view({'get': 'list', 'post': 'create'}), name='address-list'),
+    path('addresses/<int:pk>/', AddressViewSet.as_view({'get': 'retrieve', 'put': 'update', 'delete': 'destroy'}), name='address-detail'),
 
     # Swagger documentation
     path('swagger/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),
