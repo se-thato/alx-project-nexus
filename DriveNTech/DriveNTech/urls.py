@@ -1,6 +1,7 @@
 from django.contrib import admin
 from django.urls import path, include
 from rest_framework_simplejwt import views as jwt_views
+from django.contrib.auth import views as auth_views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -15,5 +16,12 @@ urlpatterns = [
     #password reset via email
     path('dj-rest-auth/password/reset/', include('dj_rest_auth.urls')),
     path('dj-rest-auth/password/reset/confirm/', include('dj_rest_auth.urls')),
+
+    # Password reset routes (global)
+    path('password-reset/', auth_views.PasswordResetView.as_view(), name='password-reset'),
+    path('password-reset/done/', auth_views.PasswordResetDoneView.as_view(), name='password_reset_done'),
+    path('password-reset-confirm/<uidb64>/<token>/', auth_views.PasswordResetConfirmView.as_view(), name='password_reset_confirm'),
+    path('password-reset-complete/', auth_views.PasswordResetCompleteView.as_view(), name='password_reset_complete'),
+
 
 ]

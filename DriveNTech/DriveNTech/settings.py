@@ -110,7 +110,7 @@ LOGGING = {
         'slow_file': {
             'level': 'WARNING',
             'class': 'logging.FileHandler',
-            'filename': os.path.join(BASE_DIR, 'slow_requests.log'),
+            'filename': 'logs/slow_requests.log',
             'formatter': 'verbose',
         },
         'console': {
@@ -275,7 +275,7 @@ CACHES = {
 # Celery configuration
 #this will tell Celery to use Redis in my computer
 CELERY_BROKER_URL = 'redis://localhost:6379/0'
-CELERY_RESULT_BACKEND = 'redis://localhost:6379/0'
+CELERY_RESULT_BACKEND = 'redis://localhost:6379/0' 
 
 
 #Email Alerts for Super Slow Requests

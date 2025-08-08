@@ -27,6 +27,8 @@ class RequestLoggingMiddleware:
         return response
 
 # This middleware monitors the performance of requests
+performance_logger = logging.getLogger('performance')
+
 class PerformanceMonitoringMiddleware:
     def __init__(self, get_response):
         self.get_response = get_response

@@ -1506,3 +1506,336 @@ C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\
 C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4341
+Watching for file changes with StatReloader
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4341
+Too Many Requests: /admin/login/
+"POST /admin/login/?next=/admin/ HTTP/1.1" 429 64
+Watching for file changes with StatReloader
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4344
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4341
+Too Many Requests: /admin/login/
+"POST /admin/login/?next=/admin/ HTTP/1.1" 429 64
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 25502
+"GET /admin/account/emailaddress/ HTTP/1.1" 200 23394
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 25502
+"GET /admin/sites/site/ HTTP/1.1" 200 24057
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/sites/site/1/change/ HTTP/1.1" 200 23695
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/sites/site/ HTTP/1.1" 200 24057
+"GET /admin/sites/site/add/ HTTP/1.1" 200 23437
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 25502
+"GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 22460
+"GET /admin/ HTTP/1.1" 200 25502
+"GET /admin/Eco_Api/profile/ HTTP/1.1" 200 23404
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/axes/accessattempt/ HTTP/1.1" 200 27035
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 25502
+Method Not Allowed: /dj-rest-auth/registration/
+"GET /dj-rest-auth/registration/ HTTP/1.1" 405 12971
+Bad Request: /dj-rest-auth/registration/
+"POST /dj-rest-auth/registration/ HTTP/1.1" 400 13335
+Bad Request: /dj-rest-auth/registration/
+"POST /dj-rest-auth/registration/ HTTP/1.1" 400 13168
+Bad Request: /dj-rest-auth/registration/
+"POST /dj-rest-auth/registration/ HTTP/1.1" 400 13119
+Bad Request: /dj-rest-auth/registration/
+"POST /dj-rest-auth/registration/ HTTP/1.1" 400 13172
+Bad Request: /dj-rest-auth/registration/
+"POST /dj-rest-auth/registration/ HTTP/1.1" 400 13121
+Bad Request: /dj-rest-auth/registration/
+"POST /dj-rest-auth/registration/ HTTP/1.1" 400 13184
+Bad Request: /dj-rest-auth/registration/
+"POST /dj-rest-auth/registration/ HTTP/1.1" 400 13119
+Bad Request: /dj-rest-auth/registration/
+"POST /dj-rest-auth/registration/ HTTP/1.1" 400 13167
+Method Not Allowed: /dj-rest-auth/password/reset/
+"GET /dj-rest-auth/password/reset/ HTTP/1.1" 405 12195
+Internal Server Error: /dj-rest-auth/password/reset/
+Traceback (most recent call last):
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\views.py", line 265, in post
+    serializer.save()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\serializers.py", line 253, in save
+    self.reset_form.save(**opts)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\forms.py", line 64, in save
+    url = url_generator(request, user, temp_key)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\forms.py", line 23, in default_url_generator
+    path = reverse(
+        'password_reset_confirm',
+        args=[user_pk_to_url_str(user), temp_key],
+    )
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_reset_confirm' not found. 'password_reset_confirm' is not a valid view function or pattern name.
+"POST /dj-rest-auth/password/reset/ HTTP/1.1" 500 134673
+"GET /dj-rest-auth/account/ HTTP/1.1" 302 0
+"GET /dj-rest-auth/account/email/ HTTP/1.1" 200 4167
+"GET /static/account/js/account.js HTTP/1.1" 200 437
+"GET /static/account/js/onload.js HTTP/1.1" 200 495
+"POST /dj-rest-auth/account/email/ HTTP/1.1" 302 0
+"GET /dj-rest-auth/account/email/ HTTP/1.1" 200 4408
+"GET /dj-rest-auth/account/confirm-email/MQ:1uk8H4:ycgETFq7iOoFqF37bTn5DwdbIPFI_pJt-HGGSURp-eY/ HTTP/1.1" 200 2308
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /dj-rest-auth/account/email/ HTTP/1.1" 200 4167
+"GET /admin/ HTTP/1.1" 200 25502
+"POST /admin/logout/ HTTP/1.1" 200 3568
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4343
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 25502
+"POST /admin/logout/ HTTP/1.1" 200 3568
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4341
+Too Many Requests: /admin/login/
+"POST /admin/login/?next=/admin/ HTTP/1.1" 429 64
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 25502
+"GET /admin/auth/user/ HTTP/1.1" 200 25975
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 22460
+"GET /admin/account/emailaddress/ HTTP/1.1" 200 25435
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/account/emailaddress/1/change/ HTTP/1.1" 200 25006
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/account/emailaddress/1/change/ HTTP/1.1" 302 0
+"GET /admin/account/emailaddress/ HTTP/1.1" 200 25666
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/axes/accessattempt/ HTTP/1.1" 200 27036
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/axes/accessfailurelog/ HTTP/1.1" 200 24008
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/axes/accesslog/ HTTP/1.1" 200 28725
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/axes/accessfailurelog/ HTTP/1.1" 200 24008
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/axes/accesslog/ HTTP/1.1" 200 28725
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 25915
+"GET /admin/sites/site/ HTTP/1.1" 200 24057
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/sites/site/1/change/ HTTP/1.1" 200 23695
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/sites/site/1/change/ HTTP/1.1" 302 0
+"GET /admin/sites/site/ HTTP/1.1" 200 24269
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 26267
+Method Not Allowed: /dj-rest-auth/password/reset/confirm/
+"GET /dj-rest-auth/password/reset/confirm/ HTTP/1.1" 405 13362
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+Method Not Allowed: /dj-rest-auth/password/reset/
+"GET /dj-rest-auth/password/reset/ HTTP/1.1" 405 12195
+Internal Server Error: /dj-rest-auth/password/reset/
+Traceback (most recent call last):
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\views.py", line 265, in post
+    serializer.save()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\serializers.py", line 253, in save
+    self.reset_form.save(**opts)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\forms.py", line 64, in save
+    url = url_generator(request, user, temp_key)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\forms.py", line 23, in default_url_generator
+    path = reverse(
+        'password_reset_confirm',
+        args=[user_pk_to_url_str(user), temp_key],
+    )
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_reset_confirm' not found. 'password_reset_confirm' is not a valid view function or pattern name.
+"POST /dj-rest-auth/password/reset/ HTTP/1.1" 500 134552
+"GET /dj-rest-auth/account/ HTTP/1.1" 302 0
+"GET /dj-rest-auth/account/email/ HTTP/1.1" 200 4165
+"GET /static/account/js/account.js HTTP/1.1" 304 0
+"GET /static/account/js/onload.js HTTP/1.1" 304 0
+"POST /dj-rest-auth/account/email/ HTTP/1.1" 302 0
+"GET /dj-rest-auth/account/email/ HTTP/1.1" 200 4406
+"GET /dj-rest-auth/account/email/ HTTP/1.1" 200 4165
+Internal Server Error: /dj-rest-auth/password/reset/
+Traceback (most recent call last):
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\views.py", line 265, in post
+    serializer.save()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\serializers.py", line 253, in save
+    self.reset_form.save(**opts)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\forms.py", line 64, in save
+    url = url_generator(request, user, temp_key)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\forms.py", line 23, in default_url_generator
+    path = reverse(
+        'password_reset_confirm',
+        args=[user_pk_to_url_str(user), temp_key],
+    )
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_reset_confirm' not found. 'password_reset_confirm' is not a valid view function or pattern name.
+"POST /dj-rest-auth/password/reset/ HTTP/1.1" 500 134552
+Not Found: /dj-rest-auth/
+"GET /dj-rest-auth/ HTTP/1.1" 404 5128
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /password_reset/
+"GET /password_reset/ HTTP/1.1" 404 4369
+"GET /password-reset/ HTTP/1.1" 200 3430
+"POST /password-reset/ HTTP/1.1" 302 0
+"GET /password-reset/done/ HTTP/1.1" 200 3000
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /password-reset-confirm/%3Cuidb64%3E/%3Ctoken%3E/ HTTP/1.1" 200 2931
+Method Not Allowed: /dj-rest-auth/password/reset/
+"GET /dj-rest-auth/password/reset/ HTTP/1.1" 405 12195
+"POST /dj-rest-auth/password/reset/ HTTP/1.1" 200 12179
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /dj-rest-auth/password/reset/
+Traceback (most recent call last):
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\views.py", line 265, in post
+    serializer.save()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\serializers.py", line 253, in save
+    self.reset_form.save(**opts)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\forms.py", line 64, in save
+    url = url_generator(request, user, temp_key)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\forms.py", line 23, in default_url_generator
+    path = reverse(
+        'password_reset_confirm',
+        args=[user_pk_to_url_str(user), temp_key],
+    )
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_reset_confirm' not found. 'password_reset_confirm' is not a valid view function or pattern name.
+"POST /dj-rest-auth/password/reset/ HTTP/1.1" 500 134552
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /dj-rest-auth/password/reset/ HTTP/1.1" 200 12179
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\middleware.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\middleware.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /dj-rest-auth/password/reset/ HTTP/1.1" 200 12179
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\signals.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\signals.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
