@@ -1,6 +1,7 @@
 from django.urls import path
-from .views import CategoryViewSet, ProductViewSet, OrderViewSet, OrderItemViewSet, CartViewSet, CartItemViewSet, CustomerViewSet, WishlistViewSet, WishlistItemViewSet, ReviewViewSet, AddressViewSet, UserProfileView, RegisterView
+from .views import CategoryViewSet, ProductViewSet, OrderViewSet, OrderItemViewSet, CartViewSet, CartItemViewSet, CustomerViewSet, WishlistViewSet, WishlistItemViewSet, ReviewViewSet, AddressViewSet, UserProfileView
 from Eco_Api.swagger import schema_view
+
 
 
 urlpatterns = [
@@ -37,9 +38,8 @@ urlpatterns = [
     path('addresses/', AddressViewSet.as_view({'get': 'list', 'post': 'create'}), name='address-list'),
     path('addresses/<int:pk>/', AddressViewSet.as_view({'get': 'retrieve', 'put': 'update', 'delete': 'destroy'}), name='address-detail'),
 
-    # User profile and registration
+    # User profile 
     path('user-profile/', UserProfileView.as_view({'get': 'retrieve', 'put': 'update'}), name='user-profile'),
-    path('register/', RegisterView.as_view({'post': 'create'}), name='register'),
 
     # Swagger documentation
     path('swagger/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),

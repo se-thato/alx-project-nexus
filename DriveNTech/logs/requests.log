@@ -195,76 +195,76 @@ Not Found: /api/admin/
 "GET /admin/ HTTP/1.1" 200 18898
 Watching for file changes with StatReloader
 "POST /admin/logout/ HTTP/1.1" 301 0
-code 400, message Bad request version ('\x8bpH|G÷/üÔ5q')
+code 400, message Bad request version ('\x8bpH|Gï¿½/ï¿½ï¿½5q')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ÐÌ%Í±B\x0f\x89®cAª\x15´Qsf\x15·Ø')
+code 400, message Bad request version ('ï¿½ï¿½%Í±B\x0f\x89ï¿½cAï¿½\x15ï¿½Qsf\x15ï¿½ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('áÛ\x14A°\x9bÿWIsEà')
+code 400, message Bad request version ('ï¿½ï¿½\x14Aï¿½\x9bï¿½WIsEï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('íóä\x92Ï$Chô')
+code 400, message Bad request version ('ï¿½ï¿½ï¿½\x92ï¿½$Chï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03I\x96Í\x17õq£).VÞP`\x88ð\x8c5OÒ"½Ì')
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06ï¿½\x01\x00\x06ï¿½\x03\x03I\x96ï¿½\x17ï¿½qï¿½).Vï¿½P`\x88ï¿½\x8c5Oï¿½"ï¿½ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063')
-code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03')
+code 400, message Bad request version ('ï¿½ï¿½\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063')
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06ï¿½\x01\x00\x06ï¿½\x03\x03')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03¦,õ\x0eÚuV#F¾\x12ÍHxïøi$¹R\x98\x89\x82<%åToå,|ï')
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06ï¿½\x01\x00\x06ï¿½\x03\x03ï¿½,ï¿½\x0eï¿½uV#Fï¿½\x12ï¿½Hxï¿½ï¿½i$ï¿½R\x98\x89\x82<%ï¿½Toï¿½,|ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x18\x00p')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('Ê\x11¤?3g¢Õ\x98\x8eòXd-\x00')
+code 400, message Bad request version ('ï¿½\x11ï¿½?3gï¿½ï¿½\x98\x8eï¿½Xd-\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x91RlI¢ÉG\x1a\x8b¼\x81oa/Á7Ïþá')
+code 400, message Bad request version ('\x91RlIï¿½ï¿½G\x1a\x8bï¿½\x81oa/ï¿½7ï¿½ï¿½ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s')
+code 400, message Bad request version ('ï¿½ï¿½\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Sªª\x00\x00\x00')
+code 400, message Bad request version ('ï¿½ï¿½\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Sï¿½ï¿½\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 "GET /admin/ HTTP/1.1" 301 0
-code 400, message Bad request version ('\x0eº×K')
+code 400, message Bad request version ('\x0eï¿½ï¿½K')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('iÈLb\x9dcgùr0')
+code 400, message Bad request version ('iï¿½Lb\x9dcgï¿½r0')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x02h2\x08http/1.1\x00-\x00\x02\x01\x01\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063')
+code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x17\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('¥gQ¹Ì[Y')
+code 400, message Bad request version ('ï¿½gQï¿½ï¿½[Y')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
 Watching for file changes with StatReloader
-code 400, message Bad request version ('\x97³I(')
+code 400, message Bad request version ('\x97ï¿½I(')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('£')
+code 400, message Bad request version ('ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÚÚ\x00\x00\x00')
+code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sï¿½ï¿½\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03v7\x9b\x8dNUL³ìÌ\x9e×ÛPél')
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06ï¿½\x01\x00\x06ï¿½\x03\x03v7\x9b\x8dNULï¿½ï¿½ï¿½\x9eï¿½ï¿½Pï¿½l')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÚÚ\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+code 400, message Bad request version ('ï¿½ï¿½\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sï¿½ï¿½\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('í®g]Ðù1_-,\x05\x07\x84î1ÜBöiU')
+code 400, message Bad request version ('ï¿½ï¿½g]ï¿½ï¿½1_-,\x05\x07\x84ï¿½1ï¿½Bï¿½iU')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x06\x8e')
-code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sjj\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00\x12\x00\x00\x00')
+code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sjj\x00\x00Dï¿½\x00\x05\x00\x03\x02h2\x00\x12\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÊÊ\x00\x00\x00')
+code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sï¿½ï¿½\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('¶\x8c\x98NÙÅâH~;V\x82²%·}\x98HªäRØk\x9fµC\x86\xadÅ¬ôV_ÄÕ2@±;¹é~3\x1bÊ\'"\x895Ð\x11Î\x05\x81B§M\xad')
+code 400, message Bad request version ('ï¿½\x8c\x98Nï¿½ï¿½ï¿½H~;V\x82ï¿½%ï¿½}\x98Hï¿½ï¿½Rï¿½k\x9fï¿½C\x86\xadÅ¬ï¿½V_ï¿½ï¿½2@ï¿½;ï¿½ï¿½~3\x1bï¿½\'"\x895ï¿½\x11ï¿½\x05\x81Bï¿½M\xad')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('yÆ3\x01©')
+code 400, message Bad request version ('yï¿½3\x01ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ºº\x00\x00\x00+\x00\x07\x06')
+code 400, message Bad request version ('ï¿½ï¿½\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ï¿½ï¿½\x00\x00\x00+\x00\x07\x06')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 Not Found: /
 "GET / HTTP/1.1" 404 2670
@@ -290,46 +290,46 @@ C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\
 Watching for file changes with StatReloader
 C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
 Watching for file changes with StatReloader
-code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06')
+code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥ZZ\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00')
+code 400, message Bad request version ('ï¿½ï¿½\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06ï¿½ZZ\x00\x00Dï¿½\x00\x05\x00\x03\x02h2\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06e')
+code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06e')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01DÍ\x00\x05\x00\x03\x02h2\x003\x04ï\x04íúú\x00\x01\x00\x11ì\x04À')
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01Dï¿½\x00\x05\x00\x03\x02h2\x003\x04ï¿½\x04ï¿½ï¿½ï¿½\x00\x01\x00\x11ï¿½\x04ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ê}%\x8bEç=¿Z~ÿXµ\x98®<jÃ\x95\x03Û\x10R^\x18%TJO_#\x05q\x82!\x93ø;ZJ\x98\x88\x04çRyWFÏ/\x91\x83\x81¸1H«4qx[#xA£ê\x80ÃMÙ,u!#6°\x11§ir`x{-')
+code 400, message Bad request version ('ï¿½}%\x8bEï¿½=ï¿½Z~ï¿½Xï¿½\x98ï¿½<jï¿½\x95\x03ï¿½\x10R^\x18%TJO_#\x05q\x82!\x93ï¿½;ZJ\x98\x88\x04ï¿½RyWFï¿½/\x91\x83\x81ï¿½1Hï¿½4qx[#xAï¿½ï¿½\x80ï¿½Mï¿½,u!#6ï¿½\x11ï¿½ir`x{-')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x12\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
 Watching for file changes with StatReloader
-code 400, message Bad request version ('Ã')
-code 400, message Bad request version ('ÏÌ;äBH^±ÈN\x89¦E\x19ºn2\x03')
+code 400, message Bad request version ('ï¿½')
+code 400, message Bad request version ('ï¿½ï¿½;ï¿½BH^ï¿½ï¿½N\x89ï¿½E\x19ï¿½n2\x03')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request syntax ('\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03')
+code 400, message Bad request syntax ('\x16\x03\x01\x06ï¿½\x01\x00\x06ï¿½\x03\x03')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x00\x02\x01\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06E\x9a\x9a\x00\x00\x003\x04ï\x04íjj\x00\x01\x00\x11ì\x04Àb5h¶øwrôp\x9a@¾x\x07j\x8cX\x16×d\x8fuÜ(\x88²@¹õ>\x82õ\x8c\x86')
+code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06E\x9a\x9a\x00\x00\x003\x04ï¿½\x04ï¿½jj\x00\x01\x00\x11ï¿½\x04ï¿½b5hï¿½ï¿½wrï¿½p\x9a@ï¿½x\x07j\x8cX\x16ï¿½d\x8fuï¿½(\x88ï¿½@ï¿½ï¿½>\x82ï¿½\x8c\x86')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
-code 400, message Bad request version ('æ\x05Z\x07T²`¼$û')
+code 400, message Bad request version ('ï¿½\x05Z\x07Tï¿½`ï¿½$ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request syntax ('\x16\x03\x01\x06²\x01\x00\x06®\x03\x03\x82í\x9f#õ¯\x84°\x01j\x00Ã0\x07¢-Û\x9e]o\x80ÄÝ¹ñ{n¥ÒÞ\x1b')
+code 400, message Bad request syntax ('\x16\x03\x01\x06ï¿½\x01\x00\x06ï¿½\x03\x03\x82ï¿½\x9f#ï¿½ï¿½\x84ï¿½\x01j\x00ï¿½0\x07ï¿½-ï¿½\x9e]o\x80ï¿½Ý¹ï¿½{nï¿½ï¿½ï¿½\x1b')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request syntax ('\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03ª¼ô´¸ü')
+code 400, message Bad request syntax ('\x16\x03\x01\x06ï¿½\x01\x00\x06ï¿½\x03\x03ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06E\x9a\x9a\x00\x00\x00\x12\x00\x00\x00')
+code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06E\x9a\x9a\x00\x00\x00\x12\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06e')
+code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06e')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03DyXu\x1bg}rTM1p}úü')
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03DyXu\x1bg}rTM1p}ï¿½ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
 Watching for file changes with StatReloader
@@ -337,80 +337,80 @@ Not Found: /
 "GET / HTTP/1.1" 404 2670
 Not Found: /
 "GET / HTTP/1.1" 404 2670
-code 400, message Bad request version ('½\x8fT\x9duJ\x98Ëo\x12I')
+code 400, message Bad request version ('ï¿½\x8fT\x9duJ\x98ï¿½o\x12I')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x00\x02\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x17\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ã:p\x84Ö<\x95*0\x06<\xad_wmøßù\x04f')
+code 400, message Bad request version ('ï¿½:p\x84ï¿½<\x95*0\x06<\xad_wmï¿½ï¿½ï¿½\x04f')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S\x9a\x9a\x00\x00\x00#\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+code 400, message Bad request version ('ï¿½ï¿½\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S\x9a\x9a\x00\x00\x00#\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ÞåûúàÜã²8#Fê?\x8c\x1aÞoY\x0er©2oÓ\x00#`6ý\x9d(\x00')
+code 400, message Bad request version ('ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½8#Fï¿½?\x8c\x1aï¿½oY\x0erï¿½2oï¿½\x00#`6ï¿½\x9d(\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x02h2\x08http/1.1\x00-\x00\x02\x01\x01\x00+\x00\x07\x06JJ\x03\x04\x03\x03DÍ\x00\x05\x00\x03\x02h2\x00\x1b\x00\x03\x02\x00\x02ÿ\x01\x00\x01\x00\x00')
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00-\x00\x02\x01\x01\x00+\x00\x07\x06JJ\x03\x04\x03\x03Dï¿½\x00\x05\x00\x03\x02h2\x00\x1b\x00\x03\x02\x00\x02ï¿½\x01\x00\x01\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x16PL\x01\x10Mâ\x14\x17*%Gî\x05\x88Ù')
+code 400, message Bad request version ('\x16PL\x01\x10Mï¿½\x14\x17*%Gï¿½\x05\x88ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x12\x00\x00\x00+\x00\x07\x06ªª\x03\x04\x03\x03\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00\x00')
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x12\x00\x00\x00+\x00\x07\x06ï¿½ï¿½\x03\x04\x03\x03\x00\x05\x00\x05\x01\x00\x00\x00\x00ï¿½\x01\x00\x01\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x17\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sjj\x00\x00\x00')
+code 400, message Bad request version ('ï¿½ï¿½\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sjj\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('[ý+\x89}\x10ç²\x16+\x15\x86\x86Y7\x00')
+code 400, message Bad request version ('[ï¿½+\x89}\x10ï¿½\x16+\x15\x86\x86Y7\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ýú0ËI\x99e@£`\x03%º\x18¶\x8b\x80¿È$aV\x9b')
+code 400, message Bad request version ('ï¿½ï¿½0ï¿½I\x99e@ï¿½`\x03%ï¿½\x18ï¿½\x8b\x80ï¿½ï¿½$aV\x9b')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x18eÓ\x93áÿYp\x9bÈ;)ÎV%vØ\x05ü|÷ruý>')
+code 400, message Bad request version ('\x18eï¿½\x93ï¿½ï¿½Yp\x9bï¿½;)ï¿½V%vï¿½\x05ï¿½|ï¿½ruï¿½>')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x02ÉA@\x03élÌT')
+code 400, message Bad request version ('\x02ï¿½A@\x03ï¿½lï¿½T')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
 Watching for file changes with StatReloader
-code 400, message Bad request version ('¬Ää')
+code 400, message Bad request version ('ï¿½ï¿½ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('oÚµe\x8bK?È\x92É4\x12jÇ')
+code 400, message Bad request version ('oÚµe\x8bK?ï¿½\x92ï¿½4\x12jï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03)·\x94Ò~"\x8e\x117gàê\x15-ºÀA¤s}:\x97#2\x9cúÅÂMX¢y')
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06ï¿½\x01\x00\x06ï¿½\x03\x03)ï¿½\x94ï¿½~"\x8e\x117gï¿½ï¿½\x15-ï¿½ï¿½Aï¿½s}:\x97#2\x9cï¿½ï¿½ï¿½MXï¿½y')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('k²\x15')
+code 400, message Bad request version ('kï¿½\x15')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('£\x8e\x93zt³\x12\x15uñE\x1b|O_\x04]\x05ðAPp\x88-ì\x18\x8a\x83qüB')
+code 400, message Bad request version ('ï¿½\x8e\x93ztï¿½\x12\x15uï¿½E\x1b|O_\x04]\x05ï¿½APp\x88-ï¿½\x18\x8a\x83qï¿½B')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x1b¯ô/Ù$Di$=\x18T')
+code 400, message Bad request version ('\x1bï¿½ï¿½/ï¿½$Di$=\x18T')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x02h2\x08http/1.1ÿ\x01\x00\x01\x00\x00\x12\x00\x00\x00+\x00\x07\x06\x1a\x1a\x03\x04\x03\x03DÍ\x00\x05\x00\x03\x02h2\x00')
+code 400, message Bad request version ('\x02h2\x08http/1.1ï¿½\x01\x00\x01\x00\x00\x12\x00\x00\x00+\x00\x07\x06\x1a\x1a\x03\x04\x03\x03Dï¿½\x00\x05\x00\x03\x02h2\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('Í½2\\r;·Ñék\x984\xadÏàT')
+code 400, message Bad request version ('Í½2\\r;ï¿½ï¿½ï¿½k\x984\xadï¿½ï¿½T')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+code 400, message Bad request version ('ï¿½ï¿½\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('Mï\x08¾\x97/\x8b0jÃñ\x16Ýò')
+code 400, message Bad request version ('Mï¿½\x08ï¿½\x97/\x8b0jï¿½ï¿½\x16ï¿½ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
-code 400, message Bad request version ('8ö')
-code 400, message Bad request version ('H#Í¬U³7nÚ`E~Ï')
+code 400, message Bad request version ('8ï¿½')
+code 400, message Bad request version ('H#Í¬Uï¿½7nï¿½`E~ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x00\x02\x01\x00\x00+\x00\x07\x06ZZ\x03\x04\x03\x03\x00\x17\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÊÊ\x00\x00\x00')
+code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sï¿½ï¿½\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('MDçÊ½S')
+code 400, message Bad request version ('MDï¿½Ê½S')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ("h\x07ðhM!{L'\\,")
+code 400, message Bad request version ("h\x07ï¿½hM!{L'\\,")
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('jkÃ')
+code 400, message Bad request version ('jkï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x87t\x8cÊ\x19¤:\x05(R\x12¦\x1b9tÉ*8b\x8bë\x07©£\x16\x10\x906j¿{¾.ù\x815¡8¡Kaò¬X\x89æ\x8dS\x1ad\x97*\x80.*5Ù£^"S\x14®\x19)a»©oz½\x00@0^äÀÔ§/ì\x11\x9c\x93\x08DË\x00-#·vä×DD1l,\x11PÖc<ùóY\'ó]\x98\x8c)\x86\x14g¯{®!,\x8dòQ\x0f\x9eC¹n\x8a\x8cò\x94f,a²"a#/E\x833Ø²oÖ!ÑUy+\x9a\x18óÈ8ôè')
+code 400, message Bad request version ('\x87t\x8cï¿½\x19ï¿½:\x05(R\x12ï¿½\x1b9tï¿½*8b\x8bï¿½\x07ï¿½ï¿½\x16\x10\x906jï¿½{ï¿½.ï¿½\x815ï¿½8ï¿½Kaï¿½X\x89ï¿½\x8dS\x1ad\x97*\x80.*5Ù£^"S\x14ï¿½\x19)aï¿½ï¿½ozï¿½\x00@0^ï¿½ï¿½Ô§/ï¿½\x11\x9c\x93\x08Dï¿½\x00-#ï¿½vï¿½ï¿½DD1l,\x11Pï¿½c<ï¿½ï¿½Y\'ï¿½]\x98\x8c)\x86\x14gï¿½{ï¿½!,\x8dï¿½Q\x0f\x9eCï¿½n\x8a\x8cï¿½\x94f,aï¿½"a#/E\x833Ø²oï¿½!ï¿½Uy+\x9a\x18ï¿½ï¿½8ï¿½ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 Not Found: /
 "GET / HTTP/1.1" 404 2670
@@ -432,153 +432,153 @@ Not Found: /
 "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
 Not Found: /api/wishlist/
 "GET /api/wishlist/ HTTP/1.1" 404 8942
-code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+code 400, message Bad request version ('ï¿½ï¿½\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ê')
+code 400, message Bad request version ('ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x9bÿaC\x99\x9ab\x0föTIz¬Ï~4I¹\x95T,D\\É¥ÕKM\x94XD%l9ë"G\'\x80\x82jðæ@¾\x11iÞ\x8d!«Bë,\x92æ¢i~æÓ§\x12óm¾/øä')
+code 400, message Bad request version ('\x9bï¿½aC\x99\x9ab\x0fï¿½TIzï¿½ï¿½~4Iï¿½\x95T,D\\É¥ï¿½KM\x94XD%l9ï¿½"G\'\x80\x82jï¿½ï¿½@ï¿½\x11iï¿½\x8d!ï¿½Bï¿½,\x92ï¿½i~ï¿½Ó§\x12ï¿½mï¿½/ï¿½ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x8cA\x08Û\x05dË\x01H&g\x92Yè\x12Òð3åK\xad¦46ËvdàáÒ¯Å\x83Ð\x9fÈ¢\x17CÜ\x7fö$m\x06%Çt*Ò4Ü\x8c@÷9YêË')
+code 400, message Bad request version ('\x8cA\x08ï¿½\x05dï¿½\x01H&g\x92Yï¿½\x12ï¿½ï¿½3ï¿½K\xadï¿½46ï¿½vdï¿½ï¿½Ò¯ï¿½\x83ï¿½\x9fÈ¢\x17Cï¿½\x7fï¿½$m\x06%ï¿½t*ï¿½4ï¿½\x8c@ï¿½9Yï¿½ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x12\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00')
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x12\x00\x00Dï¿½\x00\x05\x00\x03\x02h2\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('yÁ\x8cN©\x81Ç²±}Ð\x81ö\x86_;¡0(|*\x08\x13~\x84')
+code 400, message Bad request version ('yï¿½\x8cNï¿½\x81Ç²ï¿½}ï¿½\x81ï¿½\x86_;ï¿½0(|*\x08\x13~\x84')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 "GET /api/wishlists/ HTTP/1.1" 200 16000
 "GET /api/addresses/ HTTP/1.1" 200 18029
 "GET /api/reviews/ HTTP/1.1" 200 16926
-code 400, message Bad request version ('\x00\x02\x01\x00\x00\x12\x00\x00\x00-\x00\x02\x01\x01\x00#\x00\x00\x003\x04ï\x04í')
+code 400, message Bad request version ('\x00\x02\x01\x00\x00\x12\x00\x00\x00-\x00\x02\x01\x01\x00#\x00\x00\x003\x04ï¿½\x04ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x19n#¾\x02wé|¡×§ÕÔP0ù¦\x93')
+code 400, message Bad request version ('\x19n#ï¿½\x02wï¿½|ï¿½×§ï¿½ï¿½P0ï¿½ï¿½\x93')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('mh\x9bÉÝBF\x9d<P¸\x9d¥ªØ\x0eû+\x97È')
+code 400, message Bad request version ('mh\x9bï¿½ï¿½BF\x9d<Pï¿½\x9dï¿½ï¿½ï¿½\x0eï¿½+\x97ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('¯\x1a')
+code 400, message Bad request version ('ï¿½\x1a')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('¼]\x12GÎ4q¾ájÓJn\x88ð$\xad')
+code 400, message Bad request version ('ï¿½]\x12Gï¿½4qï¿½ï¿½jï¿½Jn\x88ï¿½$\xad')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x02')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('¤lwZõ1±ô¶\x8c\x9c\xadÛM¥¹®Í\x1añÿ\x01\x00\x01\x00\x00\x12\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00')
+code 400, message Bad request version ('ï¿½lwZï¿½1ï¿½ï¿½ï¿½\x8c\x9c\xadï¿½Mï¿½ï¿½ï¿½ï¿½\x1aï¿½ï¿½\x01\x00\x01\x00\x00\x12\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00Dï¿½\x00\x05\x00\x03\x02h2\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('1Î')
+code 400, message Bad request version ('1ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063::\x00\x00\x00\x12\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00')
+code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063::\x00\x00\x00\x12\x00\x00Dï¿½\x00\x05\x00\x03\x02h2\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03Ú$ÿÄ\x1bÏ\x9dò\x9b)\x89£¾b¼¢\x91\x01\x12\x89')
+code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ï¿½\x03\x03ï¿½$ï¿½ï¿½\x1bï¿½\x9dï¿½\x9b)\x89ï¿½ï¿½bï¿½ï¿½\x91\x01\x12\x89')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s\x8a\x8a\x00\x00\x00')
+code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s\x8a\x8a\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sJJ\x00\x00\x00')
+code 400, message Bad request version ('ï¿½ï¿½\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sJJ\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03uòFÎñGÝK\x14\x82e^')
+code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ï¿½\x03\x03uï¿½Fï¿½ï¿½Gï¿½K\x14\x82e^')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93')
+code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('5hh¹\x88-m(X')
+code 400, message Bad request version ('5hhï¿½\x88-m(X')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('7É%z\x95\x86½Vñ&Ø\x14\x07ëÚ²Öb9þ')
+code 400, message Bad request version ('7ï¿½%z\x95\x86ï¿½Vï¿½&ï¿½\x14\x07ï¿½Ú²ï¿½b9ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x8a1MîE2Óå:X°±Z\x08©É\x10K\x10ócm\x93¸]cCßÌn(÷}Ë\x13¦vÜ\\8\x14Ï.¶V\x08:ÌáhHE1c¥\x19\x19\x1a¡´Ô\x03\x81vûÍû[Ìó')
+code 400, message Bad request version ('\x8a1Mï¿½E2ï¿½ï¿½:Xï¿½ï¿½Z\x08ï¿½ï¿½\x10K\x10ï¿½cm\x93ï¿½]cCï¿½ï¿½n(ï¿½}ï¿½\x13ï¿½vï¿½\\8\x14ï¿½.ï¿½V\x08:ï¿½ï¿½hHE1cï¿½\x19\x19\x1aï¿½ï¿½ï¿½\x03\x81vï¿½ï¿½ï¿½[ï¿½ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('©ÿ¦[\x00²_Ê¦n\x92Fsa\x1a')
+code 400, message Bad request version ('ï¿½ï¿½ï¿½[\x00ï¿½_Ê¦n\x92Fsa\x1a')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93::\x00\x00\x00-\x00\x02\x01\x01\x00\x12\x00\x00\x00')
+code 400, message Bad request version ('ï¿½ï¿½\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93::\x00\x00\x00-\x00\x02\x01\x01\x00\x12\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x00\x02\x01\x00\x00-\x00\x02\x01\x01\x00\x12\x00\x00\x003\x04ï\x04íJJ\x00\x01\x00\x11ì\x04Àt¦"\x93ypðó\x00ìT&Cà¨')
+code 400, message Bad request version ('\x00\x02\x01\x00\x00-\x00\x02\x01\x01\x00\x12\x00\x00\x003\x04ï¿½\x04ï¿½JJ\x00\x01\x00\x11ï¿½\x04ï¿½tï¿½"\x93ypï¿½ï¿½\x00ï¿½T&Cï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\xadrüÆ\x93\x81Ô\x16\x10fåó')
+code 400, message Bad request version ('\xadrï¿½ï¿½\x93\x81ï¿½\x16\x10fï¿½ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063')
+code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('Õ&¿W×L\x9eÌ\x80câ§:\x1a\x1bÝÂQ\\u=£7\x1b>)\x83ÿZr@A£\x826\x91g\x18¥¡\x90£Æ£xªptv\x06uDúX')
+code 400, message Bad request version ('ï¿½&ï¿½Wï¿½L\x9eï¿½\x80cï¿½:\x1a\x1bï¿½ï¿½Q\\u=ï¿½7\x1b>)\x83ï¿½Zr@Aï¿½\x826\x91g\x18ï¿½ï¿½\x90ï¿½Æ£xï¿½ptv\x06uDï¿½X')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request syntax ('\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03þéç\x17ÛõTe\x8cÛ\x87ûëòÛ\x95\x8c÷Ûs\x8c%¿\x91ÓxNùm/\x1av ')
+code 400, message Bad request syntax ('\x16\x03\x01\x06ï¿½\x01\x00\x06ï¿½\x03\x03ï¿½ï¿½ï¿½\x17ï¿½ï¿½Te\x8cï¿½\x87ï¿½ï¿½ï¿½ï¿½\x95\x8cï¿½ï¿½s\x8c%ï¿½\x91ï¿½xNï¿½m/\x1av ')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x8fH\x03¹\x8bGáÉG&w\x00\x9b5÷÷Ñ\x9f\x0fêj\x06OX^áè^\x9dþ\x05\x8f\x00')
+code 400, message Bad request version ('\x8fH\x03ï¿½\x8bGï¿½ï¿½G&w\x00\x9b5ï¿½ï¿½ï¿½\x9f\x0fï¿½j\x06OX^ï¿½ï¿½^\x9dï¿½\x05\x8f\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('Ì\x92\x01sÍ«\x928\x1b¬\x0ecAk\x88\x06ü\x9e\x00#\x00\x00\x00')
+code 400, message Bad request version ('ï¿½\x92\x01sÍ«\x928\x1bï¿½\x0ecAk\x88\x06ï¿½\x9e\x00#\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('KÆg×¤\x0f\x80\x14ê\x84\\ÏD')
+code 400, message Bad request version ('Kï¿½g×¤\x0f\x80\x14ï¿½\x84\\ï¿½D')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03¯±*=\x89´\x9fwËÜ\x8f7\x8fÅ\x9a×Êè\x98\x83\x84Pú')
+code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ï¿½\x03\x03ï¿½ï¿½*=\x89ï¿½\x9fwï¿½ï¿½\x8f7\x8fï¿½\x9aï¿½ï¿½ï¿½\x98\x83\x84Pï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x17\x00\x00\x00-\x00\x02\x01\x01\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x9eÂ\x90\x8cÀq\x88ÈÙa;\x8b\x19eB')
+code 400, message Bad request version ('\x9eï¿½\x90\x8cï¿½q\x88ï¿½ï¿½a;\x8b\x19eB')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063\x9a\x9a\x00\x00\x00\x12\x00\x00\x00#\x00\x00\x00')
+code 400, message Bad request version ('\x1a\x1a\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063\x9a\x9a\x00\x00\x00\x12\x00\x00\x00#\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('Ê')
+code 400, message Bad request version ('ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
 Watching for file changes with StatReloader
 C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
-code 400, message Bad request version ("\x82\x96$|Þd£ì\x8b½zÅÄ\x04\x01Eiz'\x8dQ\x80")
+code 400, message Bad request version ("\x82\x96$|ï¿½dï¿½ï¿½\x8bï¿½zï¿½ï¿½\x04\x01Eiz'\x8dQ\x80")
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version (':Üc¯\x92ö:Ðn°Q»iÑ')
+code 400, message Bad request version (':ï¿½cï¿½\x92ï¿½:ï¿½nï¿½Qï¿½iï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s')
+code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('abB&\x84NÚ\x86È\x0eZoz\x9bANr\x86ò×\x06óÃlÚT©Ò*1O{\x01\x81\x82«-')
+code 400, message Bad request version ('abB&\x84Nï¿½\x86ï¿½\x0eZoz\x9bANr\x86ï¿½ï¿½\x06ï¿½ï¿½lï¿½Tï¿½ï¿½*1O{\x01\x81\x82ï¿½-')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version (',É\x9du5')
+code 400, message Bad request version (',ï¿½\x9du5')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03ÿj')
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06ï¿½\x01\x00\x06ï¿½\x03\x03ï¿½j')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
-code 400, message Bad request version (')ã')
+code 400, message Bad request version (')ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+code 400, message Bad request version ('ï¿½ï¿½\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03')
+code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ï¿½\x03\x03')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('u5x¥¸\x84¬\x98sbÂzu&')
+code 400, message Bad request version ('u5xï¿½ï¿½\x84ï¿½\x98sbï¿½zu&')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93')
+code 400, message Bad request version ('ï¿½ï¿½\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S**\x00\x00\x00')
+code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S**\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request syntax ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03ï\x17v\x0eí')
+code 400, message Bad request syntax ('\x16\x03\x01\x06ï¿½\x01\x00\x06ï¿½\x03\x03ï¿½\x17v\x0eï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s')
-code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s::\x00\x00\x00+\x00\x07\x06**\x03\x04\x03\x03\x00\x12\x00\x00ÿ\x01\x00\x01\x00\x00')
+code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s')
+code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s::\x00\x00\x00+\x00\x07\x06**\x03\x04\x03\x03\x00\x12\x00\x00ï¿½\x01\x00\x01\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 You're accessing the development server over HTTPS, but it only supports HTTP.
 C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
 Watching for file changes with StatReloader
-code 400, message Bad request version ('s¶¤D\x12ÌP')
+code 400, message Bad request version ('sï¿½ï¿½D\x12ï¿½P')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ª×÷\x93ÏYåHò]+©û\x0f\x00\x86q~ª+%ªbHØgJ\x86Ý\x84Z\x00Ð')
+code 400, message Bad request version ('ï¿½ï¿½ï¿½\x93ï¿½Yï¿½Hï¿½]+ï¿½ï¿½\x0f\x00\x86q~ï¿½+%ï¿½bHï¿½gJ\x86ï¿½\x84Z\x00ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ï*#è¤\x02YT9ñ+v)D\x90÷Æ\x94\x7f\x8b[`³sñ\x84\x01Ü<O)')
+code 400, message Bad request version ('ï¿½*#ï¿½\x02YT9ï¿½+v)D\x90ï¿½ï¿½\x94\x7f\x8b[`ï¿½sï¿½\x84\x01ï¿½<O)')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06SÚÚ\x00\x00\x00')
+code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Sï¿½ï¿½\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ê±;')
+code 400, message Bad request version ('ï¿½;')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93úú\x00\x00\x00')
+code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ï¿½ï¿½\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063')
+code 400, message Bad request version ('ï¿½ï¿½\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('\x00\x02\x01\x00\x00\x17\x00\x00\x00-\x00\x02\x01\x01\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
-code 400, message Bad request version ("\x8d\x14¹><7'`°\x82\xad\x9a\x06wÛ\x04\x9bw&¼X<a`q\x99GyÞ")
+code 400, message Bad request version ("\x8d\x14ï¿½><7'`ï¿½\x82\xad\x9a\x06wï¿½\x04\x9bw&ï¿½X<a`q\x99Gyï¿½")
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('G\\fÖ\x1a>å2z\x10\x93`L±jyæ¸\x16\x89¨HÁ1\x87,`{')
+code 400, message Bad request version ('G\\fï¿½\x1a>ï¿½2z\x10\x93`Lï¿½jyï¿½\x16\x89ï¿½Hï¿½1\x87,`{')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 Watching for file changes with StatReloader
 "GET /admin HTTP/1.1" 301 0
@@ -1463,33 +1463,33 @@ Not Found: /
 "GET / HTTP/1.1" 404 3509
 Not Found: /favicon.ico
 "GET /favicon.ico HTTP/1.1" 404 3560
-code 400, message Bad request version ('Cº\x0f=\x18Zçl¦Õ\x9ch')
+code 400, message Bad request version ('Cï¿½\x0f=\x18Zï¿½lï¿½ï¿½\x9ch')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('M9WN\x80ùÂ\x12ÄØF·ÛÅ')
+code 400, message Bad request version ('M9WN\x80ï¿½ï¿½\x12ï¿½ï¿½Fï¿½ï¿½ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('âBAßH!Yê')
+code 400, message Bad request version ('ï¿½BAï¿½H!Yï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('A¢,7\x9cü£ª')
+code 400, message Bad request version ('Aï¿½,7\x9cï¿½ï¿½ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('õ\x04Nõ%H¡>*!¦Ñ\x14_\x17«')
+code 400, message Bad request version ('ï¿½\x04Nï¿½%Hï¿½>*!ï¿½ï¿½\x14_\x17ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x95åB')
+code 400, message Bad request version ('\x95ï¿½B')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('lÀ¶×û\x88s\x8bG²q0)\x89\x7f\x8f¨7ëÀ\x87Nü+')
+code 400, message Bad request version ('lï¿½ï¿½ï¿½ï¿½\x88s\x8bGï¿½q0)\x89\x7f\x8fï¿½7ï¿½ï¿½\x87Nï¿½+')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x12\x00\x00\x00-\x00\x02\x01\x01\x003\x04ï\x04íÚÚ\x00\x01\x00\x11ì\x04À\x01aÉJ\x97{ª|¾\x08×\x8d¾¶b\x10¦\xad\x11Ë½¯ÜÆC\x89¨\x9ek«ÕÐ¸mr_')
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x12\x00\x00\x00-\x00\x02\x01\x01\x003\x04ï¿½\x04ï¿½ï¿½ï¿½\x00\x01\x00\x11ï¿½\x04ï¿½\x01aï¿½J\x97{ï¿½|ï¿½\x08ï¿½\x8dï¿½ï¿½b\x10ï¿½\xad\x11Ë½ï¿½ï¿½ï¿½C\x89ï¿½\x9ekï¿½ï¿½Ð¸mr_')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x97¾½Å_\x8c\x818x\x08\x9bÜxo:k¯òõ×\x82³z»ú\x02\x8f\x9e¨\x04t<\x00Ð\x8a')
+code 400, message Bad request version ('\x97ï¿½ï¿½ï¿½_\x8c\x818x\x08\x9bï¿½xo:kï¿½ï¿½ï¿½ï¿½\x82ï¿½zï¿½ï¿½\x02\x8f\x9eï¿½\x04t<\x00ï¿½\x8a')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('yj\x00ð')
+code 400, message Bad request version ('yj\x00ï¿½')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03²¸\x99´RC\x1bÓ\x8bó½?\x81«@}4m\x8cK»£\x9bZÐyt\x02.\\ð(')
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06ï¿½\x01\x00\x06ï¿½\x03\x03ï¿½ï¿½\x99ï¿½RC\x1bï¿½\x8bï¿½?\x81ï¿½@}4m\x8cKï¿½ï¿½\x9bZï¿½yt\x02.\\ï¿½(')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 code 400, message Bad request version ('Z\x81^\x9f')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Ezz\x00\x00\x00')
+code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Ezz\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
-code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06E::\x00\x00\x00')
+code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03ï¿½+ï¿½/ï¿½,ï¿½0Ì©Ì¨ï¿½\x13ï¿½\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06E::\x00\x00\x00')
 You're accessing the development server over HTTPS, but it only supports HTTP.
 "GET /admin/ HTTP/1.1" 302 0
 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173
@@ -1839,3 +1839,888 @@ C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\sig
 C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\signals.py changed, reloading.
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 26267
+"GET /admin/socialaccount/socialaccount/ HTTP/1.1" 200 23023
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/socialaccount/socialaccount/add/ HTTP/1.1" 200 24996
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 26267
+"GET /admin/ HTTP/1.1" 200 26267
+"GET /admin/auth/user/ HTTP/1.1" 200 25975
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 26267
+"GET /admin/Eco_Api/profile/ HTTP/1.1" 200 23404
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/user/ HTTP/1.1" 200 25975
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/user/add/ HTTP/1.1" 200 26652
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/auth/user/add/ HTTP/1.1" 200 26895
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/auth/user/add/ HTTP/1.1" 302 0
+"GET /admin/auth/user/2/change/ HTTP/1.1" 200 45033
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+"GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15845
+"GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+"GET /admin/ HTTP/1.1" 200 26608
+"GET /admin/auth/user/ HTTP/1.1" 200 26424
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 26608
+"GET /admin/Eco_Api/profile/ HTTP/1.1" 200 23686
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/profile/2/change/ HTTP/1.1" 200 26040
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/profile/ HTTP/1.1" 200 23686
+"GET /admin/auth/user/ HTTP/1.1" 200 26424
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/user/2/change/ HTTP/1.1" 200 44809
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 26608
+"GET /api/swagger/ HTTP/1.1" 200 1648
+"GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0
+Internal Server Error: /api/swagger/
+Traceback (most recent call last):
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\views.py", line 112, in get
+    schema = generator.get_schema(request, self.public)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 276, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 482, in get_paths
+    operation = self.get_operation(view, path, prefix, method, components, request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 524, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 32, in get_operation
+    body = self.get_request_body_parameters(consumes)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 85, in get_request_body_parameters
+    schema = self.get_request_body_schema(serializer)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 142, in get_request_body_schema
+    return self.serializer_to_schema(serializer)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 438, in serializer_to_schema
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors, 'get_schema', serializer, {'field_inspectors': self.field_inspectors}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\field.py", line 49, in get_schema
+    return self.probe_field_inspectors(serializer, openapi.Schema, self.use_definitions)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 228, in probe_field_inspectors
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors, 'field_to_swagger_object', field, {'field_inspectors': self.field_inspectors},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        swagger_object_type=swagger_object_type, use_references=use_references, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\field.py", line 148, in field_to_swagger_object
+    raise SwaggerGenerationError(
+    ...<2 lines>...
+        % (actual_serializer, this_serializer))
+drf_yasg.errors.SwaggerGenerationError: Schema for <class 'Eco_Api.serializers.RegisterSerializer'> would override distinct serializer <class 'dj_rest_auth.registration.serializers.RegisterSerializer'> because they implicitly share the same ref_name; explicitly set the ref_name attribute on both serializers' Meta classes
+"GET /api/swagger/?format=openapi HTTP/1.1" 500 198931
+Not Found: /swagger/
+"GET /swagger/ HTTP/1.1" 404 4348
+"GET /api/swagger/ HTTP/1.1" 200 1648
+Internal Server Error: /api/swagger/
+Traceback (most recent call last):
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\views.py", line 112, in get
+    schema = generator.get_schema(request, self.public)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 276, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 482, in get_paths
+    operation = self.get_operation(view, path, prefix, method, components, request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 524, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 32, in get_operation
+    body = self.get_request_body_parameters(consumes)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 85, in get_request_body_parameters
+    schema = self.get_request_body_schema(serializer)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 142, in get_request_body_schema
+    return self.serializer_to_schema(serializer)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 438, in serializer_to_schema
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors, 'get_schema', serializer, {'field_inspectors': self.field_inspectors}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\field.py", line 49, in get_schema
+    return self.probe_field_inspectors(serializer, openapi.Schema, self.use_definitions)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 228, in probe_field_inspectors
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors, 'field_to_swagger_object', field, {'field_inspectors': self.field_inspectors},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        swagger_object_type=swagger_object_type, use_references=use_references, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\field.py", line 148, in field_to_swagger_object
+    raise SwaggerGenerationError(
+    ...<2 lines>...
+        % (actual_serializer, this_serializer))
+drf_yasg.errors.SwaggerGenerationError: Schema for <class 'Eco_Api.serializers.RegisterSerializer'> would override distinct serializer <class 'dj_rest_auth.registration.serializers.RegisterSerializer'> because they implicitly share the same ref_name; explicitly set the ref_name attribute on both serializers' Meta classes
+"GET /api/swagger/?format=openapi HTTP/1.1" 500 198931
+Internal Server Error: /api/swagger/
+Traceback (most recent call last):
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\views.py", line 112, in get
+    schema = generator.get_schema(request, self.public)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 276, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 482, in get_paths
+    operation = self.get_operation(view, path, prefix, method, components, request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 524, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 32, in get_operation
+    body = self.get_request_body_parameters(consumes)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 85, in get_request_body_parameters
+    schema = self.get_request_body_schema(serializer)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 142, in get_request_body_schema
+    return self.serializer_to_schema(serializer)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 438, in serializer_to_schema
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors, 'get_schema', serializer, {'field_inspectors': self.field_inspectors}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\field.py", line 49, in get_schema
+    return self.probe_field_inspectors(serializer, openapi.Schema, self.use_definitions)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 228, in probe_field_inspectors
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors, 'field_to_swagger_object', field, {'field_inspectors': self.field_inspectors},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        swagger_object_type=swagger_object_type, use_references=use_references, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\field.py", line 148, in field_to_swagger_object
+    raise SwaggerGenerationError(
+    ...<2 lines>...
+        % (actual_serializer, this_serializer))
+drf_yasg.errors.SwaggerGenerationError: Schema for <class 'Eco_Api.serializers.RegisterSerializer'> would override distinct serializer <class 'dj_rest_auth.registration.serializers.RegisterSerializer'> because they implicitly share the same ref_name; explicitly set the ref_name attribute on both serializers' Meta classes
+"GET /api/swagger/?format=openapi HTTP/1.1" 500 199016
+"GET /api/swagger/ HTTP/1.1" 200 1648
+Internal Server Error: /api/swagger/
+Traceback (most recent call last):
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\views.py", line 112, in get
+    schema = generator.get_schema(request, self.public)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 276, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 482, in get_paths
+    operation = self.get_operation(view, path, prefix, method, components, request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 524, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 32, in get_operation
+    body = self.get_request_body_parameters(consumes)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 85, in get_request_body_parameters
+    schema = self.get_request_body_schema(serializer)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 142, in get_request_body_schema
+    return self.serializer_to_schema(serializer)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 438, in serializer_to_schema
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors, 'get_schema', serializer, {'field_inspectors': self.field_inspectors}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\field.py", line 49, in get_schema
+    return self.probe_field_inspectors(serializer, openapi.Schema, self.use_definitions)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 228, in probe_field_inspectors
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors, 'field_to_swagger_object', field, {'field_inspectors': self.field_inspectors},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        swagger_object_type=swagger_object_type, use_references=use_references, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\field.py", line 148, in field_to_swagger_object
+    raise SwaggerGenerationError(
+    ...<2 lines>...
+        % (actual_serializer, this_serializer))
+drf_yasg.errors.SwaggerGenerationError: Schema for <class 'Eco_Api.serializers.RegisterSerializer'> would override distinct serializer <class 'dj_rest_auth.registration.serializers.RegisterSerializer'> because they implicitly share the same ref_name; explicitly set the ref_name attribute on both serializers' Meta classes
+"GET /api/swagger/?format=openapi HTTP/1.1" 500 198931
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/swagger/ HTTP/1.1" 200 1648
+Internal Server Error: /api/swagger/
+Traceback (most recent call last):
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\views.py", line 112, in get
+    schema = generator.get_schema(request, self.public)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 276, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 482, in get_paths
+    operation = self.get_operation(view, path, prefix, method, components, request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 524, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 32, in get_operation
+    body = self.get_request_body_parameters(consumes)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 85, in get_request_body_parameters
+    schema = self.get_request_body_schema(serializer)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 142, in get_request_body_schema
+    return self.serializer_to_schema(serializer)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 438, in serializer_to_schema
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors, 'get_schema', serializer, {'field_inspectors': self.field_inspectors}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\field.py", line 49, in get_schema
+    return self.probe_field_inspectors(serializer, openapi.Schema, self.use_definitions)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 228, in probe_field_inspectors
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors, 'field_to_swagger_object', field, {'field_inspectors': self.field_inspectors},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        swagger_object_type=swagger_object_type, use_references=use_references, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\field.py", line 148, in field_to_swagger_object
+    raise SwaggerGenerationError(
+    ...<2 lines>...
+        % (actual_serializer, this_serializer))
+drf_yasg.errors.SwaggerGenerationError: Schema for <class 'Eco_Api.serializers.RegisterSerializer'> would override distinct serializer <class 'dj_rest_auth.registration.serializers.RegisterSerializer'> because they implicitly share the same ref_name; explicitly set the ref_name attribute on both serializers' Meta classes
+"GET /api/swagger/?format=openapi HTTP/1.1" 500 198931
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\urls.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/swagger/ HTTP/1.1" 200 1648
+Internal Server Error: /api/swagger/
+Traceback (most recent call last):
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\views.py", line 112, in get
+    schema = generator.get_schema(request, self.public)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 276, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 482, in get_paths
+    operation = self.get_operation(view, path, prefix, method, components, request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\generators.py", line 524, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 32, in get_operation
+    body = self.get_request_body_parameters(consumes)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 85, in get_request_body_parameters
+    schema = self.get_request_body_schema(serializer)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\view.py", line 142, in get_request_body_schema
+    return self.serializer_to_schema(serializer)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 438, in serializer_to_schema
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors, 'get_schema', serializer, {'field_inspectors': self.field_inspectors}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\field.py", line 49, in get_schema
+    return self.probe_field_inspectors(serializer, openapi.Schema, self.use_definitions)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 228, in probe_field_inspectors
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors, 'field_to_swagger_object', field, {'field_inspectors': self.field_inspectors},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        swagger_object_type=swagger_object_type, use_references=use_references, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\drf_yasg\inspectors\field.py", line 148, in field_to_swagger_object
+    raise SwaggerGenerationError(
+    ...<2 lines>...
+        % (actual_serializer, this_serializer))
+drf_yasg.errors.SwaggerGenerationError: Schema for <class 'Eco_Api.serializers.RegisterSerializer'> would override distinct serializer <class 'dj_rest_auth.registration.serializers.RegisterSerializer'> because they implicitly share the same ref_name; explicitly set the ref_name attribute on both serializers' Meta classes
+"GET /api/swagger/?format=openapi HTTP/1.1" 500 198931
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\urls.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\serializers.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\views.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/swagger/ HTTP/1.1" 200 1648
+"GET /api/swagger/?format=openapi HTTP/1.1" 200 47544
+"POST /dj-rest-auth/password/reset/login/ HTTP/1.1" 200 50
+"GET /api/swagger/ HTTP/1.1" 200 1648
+"GET /api/swagger/?format=openapi HTTP/1.1" 200 47544
+"GET /admin/ HTTP/1.1" 200 26608
+"GET /admin/ HTTP/1.1" 200 26608
+"GET /admin/oauth2_provider/refreshtoken/ HTTP/1.1" 200 22463
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/oauth2_provider/refreshtoken/add/ HTTP/1.1" 200 27056
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 23452
+"GET /admin/authtoken/tokenproxy/1/change/ HTTP/1.1" 200 24238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 23452
+"GET /admin/authtoken/tokenproxy/1/change/ HTTP/1.1" 200 24238
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 23452
+"GET /admin/oauth2_provider/refreshtoken/add/ HTTP/1.1" 200 27056
+"GET /admin/oauth2_provider/application/add/?_to_field=id&_popup=1 HTTP/1.1" 200 14585
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/user/?_to_field=id&_popup=1 HTTP/1.1" 200 7721
+"GET /admin/ HTTP/1.1" 200 26608
+"GET /admin/Eco_Api/customer/ HTTP/1.1" 200 22068
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/customer/add/ HTTP/1.1" 200 25795
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/Eco_Api/customer/add/ HTTP/1.1" 302 0
+"GET /admin/Eco_Api/customer/ HTTP/1.1" 200 23574
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 26964
+"GET /admin/sites/site/ HTTP/1.1" 200 24066
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/sites/site/1/change/ HTTP/1.1" 200 23710
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/sites/site/1/change/ HTTP/1.1" 302 0
+"GET /admin/sites/site/ HTTP/1.1" 200 24269
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 27316
+"GET /admin/axes/accesslog/ HTTP/1.1" 200 29529
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/axes/accessfailurelog/ HTTP/1.1" 200 24008
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/axes/accessattempt/ HTTP/1.1" 200 23697
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Watching for file changes with StatReloader
+"GET /admin/axes/accessattempt/ HTTP/1.1" 200 23697
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\tasks.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/axes/accessattempt/ HTTP/1.1" 200 23697
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 27316
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /accounts/ HTTP/1.1" 302 0
+"GET /accounts/email/ HTTP/1.1" 200 4093
+"GET /static/account/js/account.js HTTP/1.1" 304 0
+"GET /static/account/js/onload.js HTTP/1.1" 304 0
+Method Not Allowed: /dj-rest-auth/registration/
+"GET /dj-rest-auth/registration/ HTTP/1.1" 405 12971
+"GET /password-reset/ HTTP/1.1" 200 3430
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"POST /password-reset/ HTTP/1.1" 302 0
+"GET /password-reset/done/ HTTP/1.1" 200 3000
+"GET /admin/ HTTP/1.1" 200 27316
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /password-reset/ HTTP/1.1" 200 3430
+"POST /password-reset/ HTTP/1.1" 302 0
+"GET /password-reset/done/ HTTP/1.1" 200 3000
+"GET /password-reset/ HTTP/1.1" 200 3430
+"POST /password-reset/ HTTP/1.1" 302 0
+"GET /password-reset/done/ HTTP/1.1" 200 3000
+"POST /password-reset/ HTTP/1.1" 302 0
+"GET /password-reset/done/ HTTP/1.1" 200 3000
+"GET /password-reset/ HTTP/1.1" 200 3430
+"GET /admin/ HTTP/1.1" 200 27316
+"GET /admin/auth/user/ HTTP/1.1" 200 26424
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /admin/ HTTP/1.1" 200 27316
+Method Not Allowed: /dj-rest-auth/registration/
+"GET /dj-rest-auth/registration/ HTTP/1.1" 405 12971
+Bad Request: /dj-rest-auth/registration/
+"POST /dj-rest-auth/registration/ HTTP/1.1" 400 13169
+"GET /admin/ HTTP/1.1" 200 27316
+"GET /admin/auth/user/ HTTP/1.1" 200 26424
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/user/add/ HTTP/1.1" 200 26652
+"GET /static/admin/css/unusable_password_field.css HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/unusable_password_field.js HTTP/1.1" 304 0
+"POST /admin/auth/user/add/ HTTP/1.1" 302 0
+"GET /admin/auth/user/3/change/ HTTP/1.1" 200 45028
+"GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+"GET /admin/ HTTP/1.1" 200 27656
+"GET /password-reset/ HTTP/1.1" 200 3430
+"POST /password-reset/ HTTP/1.1" 302 0
+"GET /password-reset/done/ HTTP/1.1" 200 3000
+"GET /admin/ HTTP/1.1" 200 27656
+"GET /admin/sites/site/ HTTP/1.1" 200 24066
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 27656
+"GET /admin/auth/user/ HTTP/1.1" 200 26870
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/user/3/change/ HTTP/1.1" 200 44805
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/auth/user/3/change/ HTTP/1.1" 302 0
+"GET /admin/auth/user/ HTTP/1.1" 200 27101
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/profile/ HTTP/1.1" 200 24013
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 28001
+"GET /password-reset/ HTTP/1.1" 200 3430
+Failed to send password reset email to 3
+Traceback (most recent call last):
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\contrib\auth\forms.py", line 434, in send_mail
+    email_message.send()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\mail\message.py", line 307, in send
+    return self.get_connection(fail_silently).send_messages([self])
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\mail\backends\smtp.py", line 128, in send_messages
+    new_conn_created = self.open()
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\mail\backends\smtp.py", line 86, in open
+    self.connection = self.connection_class(
+                      ~~~~~~~~~~~~~~~~~~~~~^
+        self.host, self.port, **connection_params
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Thato\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Thato\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\Lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+                                    self.source_address)
+                                    ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\Lib\socket.py", line 840, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+               ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+"POST /password-reset/ HTTP/1.1" 302 0
+"GET /password-reset/done/ HTTP/1.1" 200 3000
+"GET /admin/ HTTP/1.1" 200 28001
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\DriveNTech\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\models.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\views.py changed, reloading.
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /swagger/
+"GET /swagger/ HTTP/1.1" 404 4156
+Not Found: /swagger/
+"GET /swagger/ HTTP/1.1" 404 4156
+"GET /api/swagger/ HTTP/1.1" 200 1648
+"GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0
+"GET /api/swagger/?format=openapi HTTP/1.1" 200 37778
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173
+"GET /static/admin/css/login.css HTTP/1.1" 304 0
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 4165
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4341
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4341
+Watching for file changes with StatReloader
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 25502
+"GET /admin/Eco_Api/order/ HTTP/1.1" 200 22047
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/order/add/ HTTP/1.1" 200 25264
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Internal Server Error: /admin/Eco_Api/order/add/
+Traceback (most recent call last):
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\contrib\admin\options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\contrib\admin\sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\contrib\admin\options.py", line 1984, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\contrib\admin\options.py", line 1843, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\contrib\admin\options.py", line 1894, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\contrib\admin\options.py", line 1314, in save_model
+    obj.save()
+    ~~~~~~~~^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\db\models\base.py", line 902, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\db\models\base.py", line 1023, in save_base
+    post_save.send(
+    ~~~~~~~~~~~~~~^
+        sender=origin,
+        ^^^^^^^^^^^^^^
+    ...<4 lines>...
+        using=using,
+        ^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\dispatch\dispatcher.py", line 189, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\signals.py", line 26, in send_order_confirmation_email
+    message=f"Hey Buddy, thank you for your purchase, {instance.customer.user.username}!",
+                                                       ^^^^^^^^^^^^^^^^^
+AttributeError: 'Order' object has no attribute 'customer'
+"POST /admin/Eco_Api/order/add/ HTTP/1.1" 500 155253
+"GET /admin/Eco_Api/order/add/ HTTP/1.1" 200 25264
+"GET /admin/Eco_Api/customer/ HTTP/1.1" 200 22068
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/Eco_Api/customer/add/ HTTP/1.1" 200 25755
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 25502
+Not Found: /d/registration/j-rest-auth/
+"GET /d/registration/j-rest-auth/ HTTP/1.1" 404 5594
+Internal Server Error: /d/registration/j-rest-auth
+Traceback (most recent call last):
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django_redis\client\default.py", line 300, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django\views\decorators\debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\dj_rest_auth\registration\views.py", line 47, in dispatch
+    return super().dispatch(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 422, in initial
+    self.check_throttles(request)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\views.py", line 365, in check_throttles
+    if not throttle.allow_request(request, self):
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\rest_framework\throttling.py", line 123, in allow_request
+    self.history = self.cache.get(self.key, [])
+                   ~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__  # noqa: B904
+    ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\django_redis\client\default.py", line 298, in get
+    value = client.get(key)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\redis\commands\core.py", line 1829, in get
+    return self.execute_command("GET", name, keys=[name])
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\redis\client.py", line 623, in execute_command
+    return self._execute_command(*args, **options)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\redis\client.py", line 629, in _execute_command
+    conn = self.connection or pool.get_connection()
+                              ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\redis\utils.py", line 195, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\redis\connection.py", line 1539, in get_connection
+    connection.connect()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\redis\connection.py", line 380, in connect
+    self.connect_check_health(check_health=True)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\virt\Lib\site-packages\redis\connection.py", line 397, in connect_check_health
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+"GET /d/registration/j-rest-auth HTTP/1.1" 500 187288

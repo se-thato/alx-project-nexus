@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+dist/
+build/
+
+# Virtual Environments
+env/
+venv/
+.venv/
+
+
+# Django
+*.log
+logs/        
+db.sqlite3   
+media/   
+staticfiles/  
+static/    
+
+
+# Environment Variables
+.env           
+
+# Redis / Celery
+celerybeat-schedule
+celerybeat.pid
+*.pid
+
+
+# IDE / Editor Config
+.vscode/
+.idea/
+*.swp
+.DS_Store
