@@ -23,7 +23,7 @@ def send_order_confirmation_email(sender, instance, created, **kwargs):
     if created:
         send_mail(
             subject=f"Order #{instance.id} Confirmation",
-            message=f"Hey Buddy, thank you for your purchase, {instance.customer.user.username}!",
+            message=f"Hey thank you for your purchase, {instance.customer.user.username}!",
             from_email="thatoselepe53@gmail.com",
             recipient_list=[instance.customer.user.email],
             fail_silently=True,

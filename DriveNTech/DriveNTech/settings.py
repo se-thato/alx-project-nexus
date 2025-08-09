@@ -43,10 +43,10 @@ INSTALLED_APPS = [
     'allauth.socialaccount.providers.facebook',
 ]
 
-AUTHENTICATION_BACKENDS = (
+AUTHENTICATION_BACKENDS = [
+    'axes.backends.AxesStandaloneBackend',
     'django.contrib.auth.backends.ModelBackend',
-    'allauth.account.auth_backends.AuthenticationBackend',
-)
+]
 
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
