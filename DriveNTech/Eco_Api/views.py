@@ -1,9 +1,9 @@
 from django.shortcuts import render
-from .serializers import CategorySerializer, ProductSerializer, OrderSerializer, OrderItemSerializer, CartSerializer, CartItemSerializer, CustomerSerializer, WishlistSerializer, WishlistItemSerializer, ReviewSerializer, AddressSerializer, UserProfileSerializer
+from .serializers import CategorySerializer, ProductSerializer, OrderSerializer, OrderItemSerializer, CartSerializer, CartItemSerializer, CustomerSerializer, WishlistSerializer, WishlistItemSerializer, ReviewSerializer, AddressSerializer, UserProfileSerializer, RegisterSerializer
 from rest_framework import viewsets
 from django.utils.decorators import method_decorator
 from django.views.decorators.cache import cache_page
-from .models import Category, Product, Order, OrderItem, Cart, CartItem, Customer, Wishlist, WishlistItem, Review, Address
+from .models import Category, Product, Order, OrderItem, Cart, CartItem, Customer, Wishlist, WishlistItem, Review, Address, Profile
 from rest_framework.permissions import IsAuthenticated
 from .permissions import IsAdminOrReadOnly
 from rest_framework.filters import SearchFilter, OrderingFilter
@@ -14,8 +14,28 @@ from .tasks import send_order_confirmation_email
 from rest_framework.decorators import action
 from rest_framework.response import Response
 from rest_framework import status
+from django.contrib.auth.models import User
 
 
+
+
+class RegisterViewSet(viewsets.ViewSet):
+    """
+    this viewset handles user registration
+    """
+    serializer_class = RegisterSerializer
+
+    def create(self, request):
+        serializer = self.serializer_class(data=request.data)
+        if serializer.is_valid():
+            # Create the user and profile
+            user = User.objects.create_user(
+                username=serializer.validated_data['username'],
+                email=serializer.validated_data['email']
+            )
+            Profile.objects.create(user=user)
+            return Response({'detail': 'User registered successfully.'}, status=status.HTTP_201_CREATED)
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 
 class UserProfileView(viewsets.ModelViewSet):
@@ -183,4 +203,23 @@ class AddressViewSet(viewsets.ModelViewSet):
     pagination_class = PageNumberPagination
     filter_backends = [SearchFilter, OrderingFilter]
     search_fields = ['user__username', 'city', 'state', 'country']
+
+
+class RegisterViewSet(viewsets.ViewSet):
+    """
+    A simple ViewSet for user registration.
+    """
+    serializer_class = RegisterSerializer
+
+    def create(self, request):
+        serializer = self.serializer_class(data=request.data)
+        if serializer.is_valid():
+            # Create the user and profile
+            user = User.objects.create_user(
+                username=serializer.validated_data['username'],
+                email=serializer.validated_data['email']
+            )
+            Profile.objects.create(user=user)
+            return Response({'detail': 'User registered successfully.'}, status=status.HTTP_201_CREATED)
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
     

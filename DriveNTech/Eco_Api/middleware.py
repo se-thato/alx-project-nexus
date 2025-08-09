@@ -32,23 +32,19 @@ performance_logger = logging.getLogger('performance')
 class PerformanceMonitoringMiddleware:
     def __init__(self, get_response):
         self.get_response = get_response
-
+    # this will log the time taken for each request and send an email if it exceeds a threshold
+    # it can be used to identify slow endpoints and optimize them
     def __call__(self, request):
-        start_time = time.time()  #Start timing when request comes in
-
+        start_time = time.time()
         response = self.get_response(request)
+        duration = time.time() - start_time
 
-        end_time = time.time()  # this will stop timing 
-        duration = end_time - start_time
-
-        # Log how long did it takes
-        logger.info(
+        performance_logger.info(
             f"{request.method} {request.path} took {duration:.3f} seconds"
         )
-
-        #  Alert if too slow maybe more than 5 seconds
+        # If the duration exceeds 5 seconds, log a warning and send an email
         if duration > 5.0:
-            logger.warning(
+            performance_logger.warning(
                 f"SLOW REQUEST: {request.path} took {duration:.3f} seconds!"
             )
             send_mail(
@@ -58,5 +54,4 @@ class PerformanceMonitoringMiddleware:
                 recipient_list=['Thatoselepe53@gmail.com'],
                 fail_silently=True,
             )
-
         return response

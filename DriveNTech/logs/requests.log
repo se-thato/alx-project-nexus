@@ -2724,3 +2724,60 @@ Traceback (most recent call last):
     raise ConnectionError(self._error_message(e))
 redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
 "GET /d/registration/j-rest-auth HTTP/1.1" 500 187288
+Watching for file changes with StatReloader
+Method Not Allowed: /d/registration/j-rest-auth
+"GET /d/registration/j-rest-auth HTTP/1.1" 405 12971
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+Bad Request: /d/registration/j-rest-auth
+"POST /d/registration/j-rest-auth HTTP/1.1" 400 13168
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Bad Request: /d/registration/j-rest-auth
+"POST /d/registration/j-rest-auth HTTP/1.1" 400 13168
+Bad Request: /d/registration/j-rest-auth
+"POST /d/registration/j-rest-auth HTTP/1.1" 400 13168
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Bad Request: /d/registration/j-rest-auth
+"POST /d/registration/j-rest-auth HTTP/1.1" 400 13168
+Bad Request: /d/registration/j-rest-auth
+"POST /d/registration/j-rest-auth HTTP/1.1" 400 13168
+Watching for file changes with StatReloader
+"GET /password-reset/ HTTP/1.1" 200 3430
+"POST /password-reset/ HTTP/1.1" 302 0
+"GET /password-reset/done/ HTTP/1.1" 200 3000
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /password-reset/ HTTP/1.1" 200 3430
+"POST /password-reset/ HTTP/1.1" 302 0
+"GET /password-reset/done/ HTTP/1.1" 200 3000
+C:\Users\Thato\ALX Africa\Project_Nexus\alx-project-nexus\DriveNTech\Eco_Api\middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 25502
+"GET /api/swagger/ HTTP/1.1" 200 1648
+"GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0
+"GET /api/swagger/?format=openapi HTTP/1.1" 200 37760
