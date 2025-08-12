@@ -15,7 +15,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
 
-CSRF_TRUSTED_ORIGINS = config("CSRF_TRUSTED_ORIGINS", cast=Csv())
+CSRF_TRUSTED_ORIGINS = os.environ("CSRF_TRUSTED_ORIGINS", cast=Csv())
 
 
 # Application definition
