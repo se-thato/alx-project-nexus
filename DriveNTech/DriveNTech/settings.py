@@ -15,6 +15,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
 
+CSRF_TRUSTED_ORIGINS = config("CSRF_TRUSTED_ORIGINS", cast=Csv())
+
+
 # Application definition
 INSTALLED_APPS = [
     'django.contrib.sites',  # Required for allauth
