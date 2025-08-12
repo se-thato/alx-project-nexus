@@ -230,15 +230,15 @@ SWAGGER_SETTINGS = {
 }
 
 # Redis cache
-CACHES = {
-    "default": {
-        "BACKEND": "django_redis.cache.RedisCache",
-        "LOCATION": config("REDIS_URL"),
-        "OPTIONS": {
-            "CLIENT_CLASS": "django_redis.client.DefaultClient",
-        }
-    }
-}
+#CACHES = {
+    #"default": {
+        #"BACKEND": "django_redis.cache.RedisCache",
+        #"LOCATION": config("REDIS_URL"),
+        #"OPTIONS": {
+            #"CLIENT_CLASS": "django_redis.client.DefaultClient",
+       # }
+    #}
+#}
 
 # Celery
 CELERY_BROKER_URL = config("CELERY_BROKER_URL")
