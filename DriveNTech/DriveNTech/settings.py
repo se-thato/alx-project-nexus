@@ -146,7 +146,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'DriveNTech.wsgi.application'
 
-DB_LIVE = os.getenv("DB_LIVE")
+DB_LIVE = os.environ("DB_LIVE")
 
 if DB_LIVE in ["True", True]:
     # sqlite3 Database
@@ -162,11 +162,11 @@ else:
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.postgresql',
-            'NAME': os.getenv("DB_NAME"),
-            'USER': os.getenv("DB_USER"),
-            'PASSWORD': os.getenv("DB_PASSWORD"),
-            'HOST': os.getenv("DB_HOST"),
-            'PORT': os.getenv("DB_PORT"),
+            'NAME': os.environ("DB_NAME"),
+            'USER': os.environ("DB_USER"),
+            'PASSWORD': os.environ("DB_PASSWORD"),
+            'HOST': os.environ("DB_HOST"),
+            'PORT': os.environ("DB_PORT"),
         }
     }
 
@@ -236,7 +236,7 @@ SWAGGER_SETTINGS = {
 CACHES = {
     "default": {
         "BACKEND": "django_redis.cache.RedisCache",
-        "LOCATION": config("REDIS_URL"),
+        "LOCATION": os.environ("REDIS_URL"),
         "OPTIONS": {
             "CLIENT_CLASS": "django_redis.client.DefaultClient",
         }
@@ -244,17 +244,17 @@ CACHES = {
 }
 
 # Celery
-#CELERY_BROKER_URL = config("CELERY_BROKER_URL")
-#CELERY_RESULT_BACKEND = config("CELERY_RESULT_BACKEND")
+CELERY_BROKER_URL = os.environ("CELERY_BROKER_URL")
+CELERY_RESULT_BACKEND = os.environ("CELERY_RESULT_BACKEND")
 
 # Email
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST = config("EMAIL_HOST")
-EMAIL_PORT = config("EMAIL_PORT", cast=int)
-EMAIL_USE_TLS = config("EMAIL_USE_TLS", cast=bool)
-EMAIL_HOST_USER = config("EMAIL_HOST_USER")
-EMAIL_HOST_PASSWORD = config("EMAIL_HOST_PASSWORD")
-DEFAULT_FROM_EMAIL = config("DEFAULT_FROM_EMAIL")
+EMAIL_HOST = os.environ("EMAIL_HOST")
+EMAIL_PORT = os.environ("EMAIL_PORT", cast=int)
+EMAIL_USE_TLS = os.environ("EMAIL_USE_TLS", cast=bool)
+EMAIL_HOST_USER = os.environ("EMAIL_HOST_USER")
+EMAIL_HOST_PASSWORD = os.environ("EMAIL_HOST_PASSWORD")
+DEFAULT_FROM_EMAIL = os.environ("DEFAULT_FROM_EMAIL")
 
 # Allauth
 SITE_ID = 1
