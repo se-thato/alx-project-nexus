@@ -11,7 +11,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY
 SECRET_KEY = 'django-insecure-2s+)n!8mg2&=opn92$_0w%cav!&szs@g^ov0ri!-8uxnrn3%fo'
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ["alx-project-nexus-production-f69e.up.railway.app"]
 
@@ -21,7 +21,7 @@ CSRF_TRUSTED_ORIGINS = [
 ]
 
 
-
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https') #this will ensure that the application recognizes the forwarded protocol as HTTPS
 
 
 # Application definition
@@ -264,12 +264,9 @@ DEFAULT_FROM_EMAIL = config("DEFAULT_FROM_EMAIL")
 
 # Allauth
 SITE_ID = 1
-ACCOUNT_LOGIN_METHODS = {'email'} 
-ACCOUNT_SIGNUP_FIELDS = ['email*', 'password1*', 'password2*'] 
+ACCOUNT_EMAIL_REQUIRED = True
+ACCOUNT_USERNAME_REQUIRED = False
+ACCOUNT_AUTHENTICATION_METHOD = 'email'
 ACCOUNT_EMAIL_VERIFICATION = 'mandatory'
 ACCOUNT_USER_MODEL_USERNAME_FIELD = None
-ACCOUNT_EMAIL_VERIFICATION = 'mandatory'
-ACCOUNT_USER_MODEL_USERNAME_FIELD = None
-
 REST_USE_JWT = True
-
