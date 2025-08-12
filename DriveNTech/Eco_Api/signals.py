@@ -1,4 +1,3 @@
-# signals.py
 from django.db.models.signals import post_save, pre_save
 from django.dispatch import receiver
 from django.contrib.auth.models import User
@@ -25,7 +24,7 @@ def send_order_confirmation_email(sender, instance, created, **kwargs):
         send_mail(
             subject=f"Order #{instance.id} Confirmation",
             message=f"Hey Buddy, thank you for your purchase, {instance.customer.user.username}!",
-            from_email="thatoselepe53@",
+            from_email="thatoselepe53@gmail.com",
             recipient_list=[instance.customer.user.email],
             fail_silently=True,
         )
@@ -55,4 +54,3 @@ def restore_stock_on_order_delete(sender, instance, **kwargs):
 def alert_low_stock(sender, instance, **kwargs):
     if instance.stock <= 5:
         print(f"Stock is low for {instance.name}. Current stock: {instance.stock}")
-

@@ -38,6 +38,7 @@ class RegisterViewSet(viewsets.ViewSet):
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 
+
 class UserProfileView(viewsets.ModelViewSet):
     serializer_class = UserProfileSerializer
     permission_classes = [IsAuthenticated]
@@ -68,7 +69,6 @@ class ProductViewSet(viewsets.ModelViewSet):
     filter_backends = [SearchFilter, OrderingFilter]
     search_fields = ['name', 'category__name']
     ordering_fields = ['price']
-
 
 
 
@@ -146,7 +146,6 @@ class CartViewSet(viewsets.ModelViewSet):
     filter_backends = [SearchFilter, OrderingFilter]
     search_fields = ['user__username']
 
-
 class CartItemViewSet(viewsets.ModelViewSet):
     queryset = CartItem.objects.all()
     serializer_class = CartItemSerializer
@@ -203,6 +202,7 @@ class AddressViewSet(viewsets.ModelViewSet):
     pagination_class = PageNumberPagination
     filter_backends = [SearchFilter, OrderingFilter]
     search_fields = ['user__username', 'city', 'state', 'country']
+
 
 
 class RegisterViewSet(viewsets.ViewSet):

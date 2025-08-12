@@ -1,6 +1,10 @@
 import os
 from pathlib import Path
 from decouple import config, Csv
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Base directory
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -140,11 +144,11 @@ WSGI_APPLICATION = 'DriveNTech.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': config("DB_NAME"),
-        'USER': config("DB_USER"),
-        'PASSWORD': config("DB_PASSWORD"),
-        'HOST': config("DB_HOST"),
-        'PORT': config("DB_PORT"),
+        'NAME': os.environ["DB_NAME"],
+        'USER': os.environ["DB_USER"],
+        'PASSWORD': os.environ["DB_PASSWORD"],
+        'HOST': os.environ["DB_HOST"],
+        'PORT': os.environ["DB_PORT"],
     }
 }
 

@@ -1,3 +1,6 @@
 [2025-08-09 03:48:35,537] WARNING SLOW REQUEST: /password-reset/ took 5.322 seconds!
 [2025-08-09 14:06:48,195] WARNING SLOW REQUEST: /admin/Eco_Api/order/add/ took 5.297 seconds!
 [2025-08-09 14:38:06,132] WARNING SLOW REQUEST: /accounts/email/ took 5.192 seconds!
+[2025-08-10 20:48:19,594] WARNING SLOW REQUEST: /api/orders/ took 5.817 seconds!
+[2025-08-10 21:06:11,276] WARNING SLOW REQUEST: /password-reset/ took 7.075 seconds!
+[2025-08-10 21:06:36,300] WARNING SLOW REQUEST: /password-reset/ took 7.115 seconds!
