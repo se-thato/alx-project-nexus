@@ -145,7 +145,7 @@ WSGI_APPLICATION = 'DriveNTech.wsgi.application'
 
 DB_LIVE = os.getenv("DB_LIVE")
 
-if DB_LIVE in ["False", False]:
+if DB_LIVE in ["True", True]:
     # sqlite3 Database
     DATABASES = {
         'default': {
