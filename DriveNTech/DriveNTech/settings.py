@@ -15,6 +15,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["alx-project-nexus-production-f69e.up.railway.app"]
 
+CSRF_TRUSTED_ORIGINS = ["alx-project-nexus-production-f69e.up.railway.app"]
 
 CSRF_TRUSTED_ORIGINS = [
     "https://alx-project-nexus-production-f69e.up.railway.app",
