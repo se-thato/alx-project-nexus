@@ -11,14 +11,17 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY
 SECRET_KEY = 'django-insecure-2s+)n!8mg2&=opn92$_0w%cav!&szs@g^ov0ri!-8uxnrn3%fo'
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["alx-project-nexus-production-f69e.up.railway.app"]
 
 
-origins = os.environ.get("CSRF_TRUSTED_ORIGINS", "") 
-CSRF_TRUSTED_ORIGINS = [origin.strip() for origin in origins.split(",") if origin.strip()]
+CSRF_TRUSTED_ORIGINS = [
+    "https://alx-project-nexus-production-f69e.up.railway.app",
+]
 
+
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https') #this will ensure that the application recognizes the forwarded protocol as HTTPS
 
 
 # Application definition
