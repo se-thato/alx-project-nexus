@@ -8,11 +8,6 @@ __pycache__/
 dist/
 build/
 
-# Virtual Environments
-env/
-venv/
-.venv/
-
 
 # Django
 *.log
