@@ -2,6 +2,8 @@ import os
 from pathlib import Path
 from decouple import config, Csv
 from dotenv import load_dotenv
+#settings for simpleJWT
+from datetime import timedelta
 
 # Load environment variables from .env file
 load_dotenv()
@@ -225,6 +227,15 @@ REST_FRAMEWORK = {
     ],
     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
     'PAGE_SIZE': 1,
+}
+
+SIMPLE_JWT = {
+    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=15),
+    'REFRESH_TOKEN_TOKEN': timedelta(days=14),
+    'ROTATE_REFRESH_TOKENS': True,
+    'BLACKLIST_AFTER_ROTATION': True,
+    'ALGORITHM': 'HS256',
+    'SIGNING_KEY': SECRET_KEY,
 }
 
 # Swagger
