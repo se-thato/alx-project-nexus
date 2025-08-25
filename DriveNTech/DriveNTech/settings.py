@@ -156,7 +156,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'DriveNTech.wsgi.application'
 
 DB_LIVE = os.environ.get("DB_LIVE")
-
+"""
 if DB_LIVE in ["True", True]:
     # sqlite3 Database
     DATABASES = {
@@ -167,17 +167,18 @@ if DB_LIVE in ["True", True]:
     }
 
 else:
+"""
 # Database for production (PostgreSQL)
-    DATABASES = {
-        'default': {
-            'ENGINE': 'django.db.backends.postgresql',
-            'NAME': os.environ.get("DB_NAME"),
-            'USER': os.environ.get("DB_USER"),
-            'PASSWORD': os.environ.get("DB_PASSWORD"),
-            'HOST': os.environ.get("DB_HOST"),
-            'PORT': os.environ.get("DB_PORT"),
-        }
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': os.environ.get("DB_NAME"),
+        'USER': os.environ.get("DB_USER"),
+        'PASSWORD': os.environ.get("DB_PASSWORD"),
+        'HOST': os.environ.get("DB_HOST"),
+        'PORT': os.environ.get("DB_PORT"),
     }
+}
 
 # Password validation
 AUTH_PASSWORD_VALIDATORS = [
